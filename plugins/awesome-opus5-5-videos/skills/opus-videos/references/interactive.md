@@ -1,0 +1,111 @@
+# Games & interactive: 107 prompts
+
+Formato e marcas: veja `INDEX.md`. Prompt inteiro: `prompts/<slug>.md`.
+
+- **Opus 5.5 Medium Rocket Simulation** (`abyssalld-602690`) · 2026-10-12
+- **Interactive AI Data Flow Explainer Animation** (`adomicael-707503`) · 2026-10-12
+- **Interactive 3D Jet Engine Animation** (`aichrislee-479847`) · 2026-10-12
+- **Interactive 3D V8 Engine Animation** (`aichrislee-922082`) · 2026-10-12
+- **Saturn V Rocket Interactive 3D Model** (`aichrislee-938609`) · 2026-10-12
+- **Photon Journey Remotion Animation** (`apoorvjain25-945542`) · 2026-10-12
+- **Interactive Zen Garden HTML Animation** (`arixxbt-292438`) · 2026-10-12
+- **Cinematic 3D rocket launch** (`artless101-964679`) · 2026-10-12
+- **Physics-Based Cow Animation** (`atif-0075-639088`) · 2026-10-12
+- **3D Brake Pedal Stress Simulation Animation** (`chang-200908`) · 2026-10-12
+- **Interactive Particle Effects Animation** (`chudry223-657142`) · 2026-10-12
+- **Type 1 Diabetes Interactive 3D Visualization** (`curieuxexplorer-016717`) · 2026-10-12
+- **The Humanity Machine Interactive Film** (`curieuxexplorer-320803`) · 2026-10-12
+- **Neuroscience Friendship Study Film** (`curieuxexplorer-590917`) · 2026-10-12
+- **Interactive HTML Presentation with Narration** (`drake5112-661428`) · 2026-10-12
+- **Interactive Tectonic Earthquake Simulation Video** (`egeberkina-949521`) · 2026-10-12
+- **Interactive Boat Scene with Opus 5.5** (`engmoelgaraihy-694832`) · 2026-10-12
+- **Steam Game News Motion Graphics** (`gigabit-million-959719`) · 2026-10-12
+- **Opus 5.5 Code-Generated Pixel Short Film** (`gkxspace-923139`) · 2026-10-12
+- **Marble Computer Animation** (`godsboy7777-150194`) · 2026-10-12
+- **Interactive Stained-Glass Hibiscus Art** (`ivanainai-245918`) · 2026-10-12
+- **Interactive Felt Character in Three.js** (`jakubantowski-020905`) · 2026-10-12
+- **Animated Warehouse Simulation** (`konstantinsaifo-169107`) · 2026-10-12
+- **Self-Building 3D House Animation** (`mrkindey-267498`) · 2026-10-12
+- **Mobile Game Highlight Reel Motion Design** (`op7418-021491`) · 2026-10-12
+- **Moonwalk Dance Animation** (`otatechie-035448`) · 2026-10-12
+- **Krakatoa Volcano WebGL Animation** (`pagustafsson-566609`) · 2026-10-12
+- **Motion Design System** (`rossaxbt-707651`) · 2026-10-12
+- "Build "Jelly Dice": a single self-contained HTML file (all JS/CSS inline, no build step)…" (`spacyapps-157886`) · threejs, shader, canvas · 2026-10-12 · remake
+- **Product Promo Video Remotion** (`tarunyadav9761-053244`) · 2026-10-12
+- **3D House Construction Animation** (`techartist-021472`) · 2026-10-12
+- **Rube Goldberg Domino Physics Sim** (`techartist-697078`) · 2026-10-12
+- **WebGPU Mechanical Watch Animation** (`theparuchh-013286`) · 2026-10-12
+- **Motion Design Comparison: Sol vs Opus 5.5** (`threeaus-886343`) · 2026-10-12
+- **Pixel Art Voiceover Film** (`twoclipping-041659`) · 2026-10-12
+- **Remotion Three.js Typing Game CM** (`typingmusou-160705`) · 2026-10-12
+- **Interactive Ink Painting Simulation** (`youwareai-259061`) · 2026-10-12
+- "Opus 5.5に「ド派手なPVを作って」と丸投げしたら、ほぼ任せきりで完成した😳 世界ランク上位の実際のリプレイを撮影して、拍に合わせて「ギリギリ！」を重ねてくる。…" (`mappletour-334921`) · canvas, playable · 2026-09-29 · remake · parcial
+- "Testando o Opus 5.5 com a skill hyperframes que vi no post do @gabrielbuzziv Simplesmente…" (`pauloalonso-477996`) · canvas, svg, pixel · 2026-09-29 · remake · parcial
+- "试着用 Opus 5.5 给「财富进化论」做了一款复古的像素游戏《复利 QUEST》。 把我们家庭投资理财路上的一些困难设计成关卡。…" (`0xpai-eth-635565`) · canvas, pixel, playable · 2026-09-28 · remake · parcial
+- "Play INKBOUND: https://agentgames.itch.io/inkbound Claude Opus 5.5 built this pixel game…" (`agentgamesbot-355554`) · canvas, pixel, playable · 2026-09-28 · remake · parcial
+- "太离谱了，一共3步，Opus 5.5给我整了个“模拟火车”出来。 1. 让ChatGPT生成韶山8各个视角的图； 2. 让Opus做一个3D资产，100%还原这张图； 3…" (`akokoi1-469188`) · threejs, canvas, audio · 2026-09-28 · remake · parcial
+- "Can one developer + 3 AI agents build a GTA-style game? I’m trying. FIXER is a 1990s city…" (`alex-vainshtein-195332`) · threejs, canvas, particles · 2026-09-28 · remake · parcial
+- "Claude Opus 5.5 is stupidly good at games, so I’m putting it on a streak. Dropping 10…" (`anduraio-570761`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
+- "In a deeply serious, highly mature effort to test Opus 5.5's ability to render jello-like…" (`angie-carel-954689`) · threejs, shader, canvas, audio · 2026-09-28 · remake · parcial
+- "Update to my open world fantasy sci-fi game. You can now fly thru a larger map and vibe!…" (`aniketjart-094296`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
+- "A black cat's night stroll along a moonlit canal 🐈‍⬛🌙 CatWalk — a one-button 3D browser…" (`blitast-studio-257328`) · threejs, shader, audio · 2026-09-28 · remake · parcial
+- "Nobody edited this video. Claude Opus 5.5 built the game, then played it, filmed it…" (`boona11-415751`) · canvas, playable · 2026-09-28 · remake · parcial
+- "Opus 5.5 editing my demo video 👀 Built a hand-drawn catapult sketch that turns into a…" (`brainwavepub-812667`) · threejs, svg, gsap · 2026-09-28 · remake · parcial
+- "@kimmonismus hours of rework on my threejs game with Opus 5.5 and limits didnt even move" (`brenbuilds-386902`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
+- "I updated my game Higher on @spawn with Opus 5.5 and Savi with just only one prompt This…" (`chukinice-426722`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
+- "Everyone is sharing what Opus 5.5 can build this week, and it made us ask ourselves a…" (`codrops-340299`) · threejs, canvas, pixel · 2026-09-28 · remake · parcial
+- "I made a 3D survival game in one prompt with Opus 5.5 Survive 60 seconds. Every tile you…" (`curieuxexplorer-519730`) · threejs, shader, playable · 2026-09-28 · remake · parcial
+- "This is Dope! Claude Opus 5.5 is on fire 🔥 One prompt → a 30s video-game walk through…" (`curieuxexplorer-772215`) · threejs, shader, audio · 2026-09-28 · remake · parcial
+- "Day 7 of making a game every day until I hit 1 million followers. Driftward: Oregon Trail…" (`danielkan-059523`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
+- "What if learning Python felt more like playing a game than studying? 🎮🐍 So I asked Claude…" (`deeprajo1-834106`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
+- "made a galactic pixel racer game with opus 5.5, can you beat my score? 👿…" (`dmowlin-221566`) · canvas, pixel · 2026-09-28 · remake · parcial
+- "Claude Opus 5.5 just built Minecraft. In the browser. From a single prompt. Noah Wachnick…" (`dreyk0o0-165270`) · threejs, shader, playable · 2026-09-28 · remake · parcial
+- "I asked opus 5.5 to make a game within the confines and abilities of my engine, no other…" (`ggsimm-535814`) · canvas, audio · 2026-09-28 · remake · parcial
+- "Opus 5.5 是要上天了吗？一段 prompt 一把帮我复刻了一个泡泡堂！简直是童年经典 💣…" (`happycapyai-634965`) · threejs, canvas, svg, playable · 2026-09-28 · remake · parcial
+- "Opus 5.5 spent 43 million output tokens building 3D PvZ 2: Reflourished" (`hellovyom-800659`) · threejs, playable · 2026-09-28 · remake · parcial
+- "Claude Opus 5.5 just built me a mini temple run style game it actually feel pretty smooth…" (`itsjdraven-557760`) · threejs, canvas, playable · 2026-09-28 · remake · parcial
+- "What is going on 🤪 🎲 Dice Corners https://izmaelmag.me/dice-corners/ I’ve been a gamer…" (`izmaelmag-282849`) · threejs, canvas, audio, pixel · 2026-09-28 · remake · parcial
+- "HOLY SHIT MOMENT with Opus 5.5 😱 I really wanted to play Super Mario Bros Wonder but I…" (`janeloic-905802`) · canvas, audio · 2026-09-28 · remake · parcial
+- "被Claude Opus 5.5生成的游戏效果彻底瘫坐了。。。。只消耗了Pro套餐5h限额的19%，连续运行1h45m就能获得这么高的完整度。。。。。瘫坐中。。。。…" (`janlaywss-379361`) · threejs, canvas, playable · 2026-09-28 · remake · parcial
+- "Claude Opus 5.5 made a trailer for my Antkeeper game (one prompt). This is what it came…" (`jasperdeboer-157391`) · threejs, canvas · 2026-09-28 · remake · parcial
+- "I asked Opus 5.5 to make a game about @dhh , Ruby and the end of hand-written code." (`jstjs-129051`) · canvas, gsap · 2026-09-28 · remake · parcial
+- "Opus 5.5 is the best at animating concept art for a game im making" (`kenjiphang-750512`) · canvas, svg, gsap · 2026-09-28 · remake · parcial
+- "I built Minecraft thanks to Opus 5.5 ( part 2 ) today I added more mobs and here I will…" (`kepochnik-237752`) · threejs, canvas, playable · 2026-09-28 · remake · parcial
+- "I asked Opus 5.5 to build a tiny underground delivery network in three.js — then turned…" (`lisp-mi-139812`) · threejs, canvas · 2026-09-28 · remake · parcial
+- "Rock skipping game made with Three.js and Opus 5.5." (`llama3dstudio-012980`) · threejs, shader, playable · 2026-09-28 · remake · parcial
+- "ok i ran out of usage on claude so had to move to astra for the video... so this is just…" (`loverwnl-712109`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
+- "I'm having so much fun doing game development with opus 5.5. This little bit with trains…" (`maxthelion-649723`) · threejs, canvas · 2026-09-28 · remake · parcial
+- "Claude Opus 5.5 built this game from a single prompt - a mythic action game inspired by…" (`mayuresh-empire-687553`) · threejs, shader, canvas, particles · 2026-09-28 · remake · parcial
+- "Opus 5.5 is seriously impressive🤯 I gave Lovable a detailed prompt for a game I wanted to…" (`mgfeller-779161`) · threejs, shader, canvas, svg · 2026-09-28 · remake · parcial
+- "Opus 5.5 just one-shot this entire pixel-art game. Oh, and the prompt? It was barely…" (`mozetech-471882`) · canvas, audio, pixel, playable · 2026-09-28 · remake · parcial
+- "opus 5.5 遊戲製作，週末快點來嘗試。" (`mrblock-096062`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
+- "Opus 5.5 releases 😍 Me: Woahh! Let's drill through our BugSmash backlog quickly. My…" (`nqaze-939886`) · threejs, shader, canvas, particles · 2026-09-28 · remake · parcial
+- "帮我做一个原创的手游「高光时刻」动效：[主体，例如：开宝箱 / 段位晋升 / 成就解锁 / Boss 掉落 / 角色升级]。 做成一个可以直接打开的单文件网页（HTML +…" (`op7418-814408`) · threejs, shader, canvas, gsap · 2026-09-28 · remake
+- "帮我做一个原创的手游「高光时刻」动效：[主体，例如：开宝箱 / 段位晋升 / 成就解锁 / Boss 掉落 / 角色升级]。 做成一个可以直接打开的单文件网页（HTML +…" (`op7418-818226`) · canvas, svg, gsap, css · 2026-09-28 · remake
+- "Skydiving game built with opus 5.5🪂" (`realfedeuru-475858`) · threejs, shader, canvas, playable · 2026-09-28 · remake · parcial
+- "Always wondered if you can win every game of 2048, so i gave Claude Opus 5.5 one prompt…" (`redp314-642106`) · svg · 2026-09-28 · remake · parcial
+- "I turned this into a full game with unity cli + opus 5.5, also opus did this full demo…" (`rehan-shei-839416`) · canvas, pixel · 2026-09-28 · remake · parcial
+- "A dead planet to a breathable one, one camera, no cuts. I'm making Second Dawn, a co-op…" (`rush3rx-342153`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
+- "A procedurally-generated game in infinite stranded space colonies with realistic physics…" (`smallhusk-272056`) · threejs, shader · 2026-09-28 · remake · parcial
+- "https://claude.ai/artifact/Vos8wdB8Jenz9FopZWeRMb Check out DOUBLE FEATURE, a Cuphead…" (`taylorbereiter-189192`) · canvas, audio · 2026-09-28 · remake · parcial
+- "Testing out Opus 5.5 today by letting it work on a Magicka-inspired game! I loved this…" (`tonnusos-006126`) · canvas, particles, audio, pixel · 2026-09-28 · remake · parcial
+- "Ladprao Jet ski game based on the Bangkok floods. Clear the drains and fight the crocs…" (`vibechine-465008`) · threejs, shader, canvas, playable · 2026-09-28 · remake · parcial
+- "I made this game with Claude Opus 5.5 + ChatGPT Astra 6 for some visual assets = our new…" (`waseemkhalo-636267`) · canvas, pixel · 2026-09-28 · remake · parcial
+- "vibe coding a cozy metal detector game a few prompts in with opus 5.5 loving the sunset 😌" (`zacxbt-234711`) · threejs, shader, audio · 2026-09-28 · remake · parcial
+- "A 3D multiplayer game where the players are a squad of x-wings taking on a star…" (`0xchuckstock-879327`) · threejs, shader, playable · 2026-09-26 · remake
+- "make a Tron game." (`0xrathi-511319`) · threejs, shader, physics, playable · 2026-09-26 · remake
+- "Create a 1-on-1 card game like Hearthstone. Just make it. As best you can. In pixel art…" (`aisongman-461057`) · canvas, pixel, playable · 2026-09-26 · remake
+- "Make a 45–50 second vertical video for my app: a glance inside the app. Show every…" (`bilimfili1-459762`) · canvas, svg · 2026-09-26 · remake
+- "Build a Douglas A-1H Skyraider in Three.js" (`buildfastwithai-582551`) · threejs, canvas · 2026-09-26 · remake
+- "Create a high energy launch video, showing live stats from the website, show that users…" (`deifosv-786581`) · canvas, gsap, css · 2026-09-26 · remake
+- "PRD — Police Chase Arcade Game Working title: Heatwave Platform: iOS + Android Engine…" (`froessell-562325`) · threejs, canvas, physics, playable · 2026-09-26 · remake
+- "I would like you to create a kickass, impressive 1990s style demoscene demo using this…" (`gandamu-ml-220530`) · threejs, shader, canvas, audio · 2026-09-26 · remake
+- "Create a cinematic browser-based 3D world that can be explored freely with a camera…" (`lexnlin-241739`) · threejs, shader · 2026-09-26 · remake
+- "can you make a 3d game where you walk around and spot cats inside of a van gogh painting?…" (`mandelduck-768972`) · threejs, shader, canvas · 2026-09-26 · remake
+- "Build a racing game inspired by Ignition (1997): angled top-down camera, arcade-leaning…" (`niegramotny-197521`) · threejs, shader, canvas, physics · 2026-09-26 · remake
+- "Build a MapleStory clone in Raylib-cs." (`nolit64-347627`) · canvas, audio, playable · 2026-09-26 · remake · parcial
+- "Make a game like Romance of the Three Kingdoms III with a retro, pixelated classic vibe." (`opener-ai-843891`) · canvas, pixel, playable · 2026-09-26 · remake
+- "Create a studio level motion design ad for my app mimicly. Show me the best you got. You…" (`redpersongpt-284430`) · svg · 2026-09-26 · remake
+- "I want you to imagine a story. And then using threejs I want you to create full…" (`ryzoft-887481`) · threejs, shader, particles · 2026-09-26 · remake
+- "I want multiplayer game, with proximity chat, with destructurable environment, that…" (`ved-cj-066575`) · threejs, canvas · 2026-09-26 · remake
+- "Create a single self-contained HTML file that renders an animated pixel art wizard…" (`zacxbt-944604`) · canvas, pixel, playable · 2026-09-26 · remake

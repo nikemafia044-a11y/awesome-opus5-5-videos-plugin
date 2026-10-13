@@ -1,0 +1,126 @@
+# Explainers: 122 prompts
+
+Formato e marcas: veja `INDEX.md`. Prompt inteiro: `prompts/<slug>.md`.
+
+- **Dynamic Motion Graphics Showreel Video** (`0xnachione-906982`) · 2026-10-12
+- "an interactive 3D turbofan you can take apart in the browser, built with Three.js. suck…" (`0xspikez-483865`) · threejs, shader, svg · 2026-10-12 · remake
+- "Build me a human heart in interactive 3D, in one HTML file with Three.js. Make it look…" (`aichrislee-378670`) · threejs, canvas, audio · 2026-10-12 · remake
+- "Build me a camera lens in interactive 3D, in one HTML file with Three.js. Make it look…" (`aichrislee-408244`) · threejs, shader, svg · 2026-10-12 · remake
+- **App Feature Motion Graphics Explainer** (`amol909s-607293`) · 2026-10-12
+- **Animated Explainer Video Generator** (`andrewmichaelsa-385936`) · 2026-10-12
+- **Wireframe-First Ad** (`archiveexplorer-560622`) · 2026-10-12
+- **App Explainer Animation** (`astroboysoup-861770`) · 2026-10-12
+- **Napoleon Hill Insight Animated Explainer Video** (`bitfish-539054`) · 2026-10-12
+- **Explainer Video Prompt for Opus 5.5** (`blueoctopusai-270222`) · 2026-10-12
+- **Bitcoin Monetary History Animation** (`bradmillscan-839974`) · 2026-10-12
+- **Indian Civilization History Video** (`buildfastwithai-780900`) · 2026-10-12
+- **Evolution of Eye Explainer** (`cagrimbakirci-842869`) · 2026-10-12
+- **Opus 5.5 Workflow for Marketing Explainer Videos** (`charlessieg-370949`) · 2026-10-12
+- **Opus 5.5 Educational Explainer Video** (`cryptoxorz-359201`) · 2026-10-12
+- **SQLite Codebase Explainer Video** (`deedydas-407965`) · 2026-10-12
+- **What is Transformer Explainer** (`dotey-522564`) · 2026-10-12
+- **Epic History Chronology** (`dotey-927166`) · 2026-10-12
+- **Manim Math Explainer** (`eleanorina-653042`) · 2026-10-12
+- "Build an interactive explainer on how QR codes hold and repair a message. Render fully in…" (`eyadnour-172216`) · threejs, canvas, audio · 2026-10-12 · remake
+- **GSAP Timeline with Frame Checking** (`fleyta88-443662`) · 2026-10-12
+- **Apple-Style Product Motion Film** (`gabzofar-852359`) · 2026-10-12
+- **Another World Style Animation Player** (`gandamu-ml-124280`) · 2026-10-12
+- **Kinetic Typography Speech Visualization** (`gdgtify-130294`) · 2026-10-12
+- **Point Nemo Data Animation** (`haribuilds-007643`) · 2026-10-12
+- **Kurzgesagt Style Explainer Animation** (`henrygsing-050247`) · 2026-10-12
+- **Educational Animated Explainer** (`howlemont-503897`) · 2026-10-12
+- **After Effect Style Kinetic Text Explainer** (`incognitoprince-849212`) · 2026-10-12
+- **Music Video Generation from Song** (`ivysparkleai-543294`) · 2026-10-12
+- **History of AI Motion Video** (`jdverolme-302685`) · 2026-10-12
+- **Claude Opus 5.5 Animation Workflow Tutorial** (`king1818888-642123`) · 2026-10-12
+- **Color Wheel Motion Graphics** (`koldo2k-741714`) · 2026-10-12
+- **Resume Motion Video Storyboard** (`koushikde-937635`) · 2026-10-12
+- **P(DOOM) Cinematic Explainer** (`ldataengineer-823010`) · 2026-10-12
+- **Lemo-Opuscar Tutorial Video** (`lemomo-ai-242622`) · 2026-10-12
+- **Cinematic AI History** (`linke1427832-343079`) · 2026-10-12
+- **Motion Graphics Explainer** (`mablesjoseph-735781`) · 2026-10-12
+- **Printing Press History Explainer** (`maxescu-962277`) · 2026-10-12
+- **Animated Explainer Video Prompts for Opus 5.5** (`michaelraspuzzi-740595`) · 2026-10-12
+- **Code-Only Psychology Explainer Video** (`nakazakifam-831964`) · 2026-10-12
+- **Across Product Demo Video** (`nilou-salehi-458567`) · 2026-10-12
+- **Dark Mode Kinetic Typography** (`noah-z-zhang-765393`) · 2026-10-12
+- **Opus 5.5 Pixel Art Boomerang LLM History** (`pluginplay-472343`) · 2026-10-12
+- **Optogenetics Animation Explainer** (`rashadmirza404-020971`) · 2026-10-12
+- **The Sphere Las Vegas History Animation** (`retropunkai-060898`) · 2026-10-12
+- **Population Marbles Data Animation** (`rneayan-417829`) · 2026-10-12
+- **UI State Morph Animation** (`sanjeevn72-151834`) · 2026-10-12
+- **Claude Code Explainer Animation** (`so-ainsight-225926`) · 2026-10-12
+- **Distilbook Product Motion Graphic** (`sudo-kiran-670892`) · 2026-10-12
+- **Self-Prompt Film Code** (`ulyssexbt-205279`) · 2026-10-12
+- **Business Motion Explainer** (`wilzerjb-007630`) · 2026-10-12
+- **Colored-Pencil Explainer** (`woojinrad-455731`) · 2026-10-12
+- **Pixel Motion History Animation** (`xodud-rkd-160324`) · 2026-10-12
+- **UI Motion Design Workflow Guide** (`yankis0x-174321`) · 2026-10-12
+- **Git Explainer** (`yunn260414-016888`) · 2026-10-12
+- "哈哈, 别再急着买API, 用 CLIProxyAPI 盘活你的 AI 订阅这篇文章的视频版宣传片来了 全程使用 Opus 5.5 + remotion 制作 感觉还不错的…" (`0xlangeai-597929`) · svg · 2026-10-08 · remake · parcial
+- "I made this with a two sentence prompt using Opus 5.5 and Remotion." (`aylmerth-356252`) · canvas · 2026-10-08 · remake · parcial
+- "「Opus 5.5なら数分でできる」は本当か。 記事の冒頭に置く30秒の動画を、Remotionで作りました。 1本目は、依頼してから10分33秒。…" (`falcong-j-277506`) · svg, gsap · 2026-10-08 · remake · parcial
+- "Opus 5.5×Gemini 3.8 Flash TTSやばい 新作SEOツール「コトサーチ」のリリース動画を、ほぼ自動で作ってくれた。…" (`tetsu-tetsu333-576886`) · svg, gsap · 2026-10-08 · remake · parcial
+- "Opus 5.5 + Remotion 🤓" (`xamfonos-004331`) · svg · 2026-10-08 · remake · parcial
+- "Asked Opus 5.5 (max) to create a 15-second video about why we need to end the Fed…" (`cboyack-407181`) · canvas, svg · 2026-09-29 · remake · parcial
+- "Opus 5.5 is an absolute BEAST in creating videos. I am extremely shocked because my…" (`henritoivar-445215`) · canvas, svg, gsap · 2026-09-29 · remake · parcial
+- "Opus 5.5 just one-shotted this explainer video for @sherwoodagent 🔥 Since I ran it within…" (`imthatcarlos-133592`) · canvas, svg, ai-image · 2026-09-29 · remake · parcial
+- "ださいけど、Remotion で動画っぽいのつくった。コードは見てない。環境だけ用意した…っていっても、いつものように jj init されるカスタム try…" (`itakahashikun-990109`) · canvas, svg · 2026-09-29 · remake · parcial
+- "Jumping on the Claude Code + Hyperframe bandwagon. I made this intro completely zero-shot…" (`itsahmedharoon-544194`) · svg · 2026-09-29 · remake · parcial
+- "Made this small video for a linkedin post with Opus 5.5 + Remotion and 2 screenshots of…" (`itsyashf-692347`) · canvas, svg · 2026-09-29 · remake · parcial
+- "messing around with Opus 5.5 - HyperFrames staging, edit - JavaScript, ThreeJS, - fal GPT…" (`mattworkman-309357`) · threejs, shader, canvas · 2026-09-29 · remake · parcial
+- "Made with Opus 5.5, remotion y eleven labs. 145k tokens." (`ninjaswebcom-684126`) · canvas · 2026-09-29 · remake · parcial
+- "Opus5.5 で hyperframes チャレンジ。 結構、形になってきたかな" (`papaneco-life-038225`) · svg · 2026-09-29 · remake · parcial
+- "Claude Opus 5.5 に Remotion のコードを書かせて、検索の歴史を15秒の年表ムービーにしたら、めちゃくちゃアツい🔥…" (`rpa-dake-593915`) · svg · 2026-09-29 · remake · parcial
+- "Made with Opus 5.5 and Remotion. #claude #opus #reactnative #currency" (`salmanr2d2-661615`) · canvas, svg · 2026-09-29 · remake · parcial
+- "created this with opus 5.5 + remotion, the possibilities are endless" (`samissudo-927179`) · canvas, svg, gsap · 2026-09-29 · remake · parcial
+- "I used Opus 5.5 to generate 50 podcast animations for extremely hard to visualize…" (`stokebuilder-356793`) · canvas, svg · 2026-09-29 · remake · parcial
+- "Just tested Claude Opus 5.5 with Hyperframes. One prompt (also generated), the result is…" (`timguignard-623571`) · svg · 2026-09-29 · remake · parcial
+- "Opus 5.5 on the Trading House ❯ Using React/TypeScript (Remotion), every image drawn in…" (`tony-tt-872147`) · canvas · 2026-09-29 · remake · parcial
+- "Opus 5.5 做的文章讲解, 省流" (`0xlangeai-178533`) · svg, css · 2026-09-28 · remake · parcial
+- "I TRIED MAKING A 3D MOTION GRAPHIC WITH CLAUDE OPUS 5.5. THIS IS WHAT CAME OUT. The idea…" (`acoramaa-053577`) · threejs, shader · 2026-09-28 · remake · parcial
+- "Tried Opus 5.5 to explain the Mid-Autumn Festival 🌕 From ancient traditions to mooncakes…" (`amberpromptai-345137`) · canvas · 2026-09-28 · remake · parcial
+- "I asked Opus 5.5 to explain how a coding agent works in 40 seconds. never been this…" (`arthurkatcher-604161`) · svg, gsap, audio · 2026-09-28 · remake · parcial
+- "One prompt. One interactive camera lab. 🎥🔥 Claude Opus 5.5 generates a 3D experience…" (`chudry223-081860`) · threejs, shader · 2026-09-28 · remake · parcial
+- "🚨 Opus 5.5 is the best model launch in 2026 this entire physics engine is one HTML file…" (`cyrilxbt-149036`) · canvas, physics · 2026-09-28 · remake · parcial
+- "Opus 5.5 generated this simulation of molecular orbitals in about ~20 minutes. I had to…" (`explorations-iq-921682`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
+- "Tried to jump on the explainer video "made entirely with Opus 5.5" bandwagon…" (`garmdotcom-987439`) · canvas, svg · 2026-09-28 · remake · parcial
+- "//Like most of you// I asked opus 5.5 (medium) to generate animation to explain "Tree as…" (`hunzai-842605`) · canvas, audio · 2026-09-28 · remake · parcial
+- "Asked claude Opus 5.5 to make an explainer on how a mechanical keyboard works. It wrote…" (`iniyanai-856596`) · threejs, svg, audio · 2026-09-28 · remake · parcial
+- "Opus 5.5 just turned a smartphone into a 20-second trip from glass to atoms. It starts on…" (`irinatoxi-962937`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
+- "From Cabo da Roca to observable universe. I gave opus 5.5 old prompt I prepared for Fable…" (`kgonia7-746268`) · threejs, shader, canvas, particles · 2026-09-28 · remake · parcial
+- "I asked Claude Opus 5.5 to explain how a rocket engine works by building an interactive…" (`konstantinsaifo-501736`) · threejs, shader · 2026-09-28 · remake · parcial
+- "I asked Claude Opus 5.5 to explain how a fusion reactor works by building one you can…" (`konstantinsaifo-587629`) · threejs, shader · 2026-09-28 · remake · parcial
+- "I asked Claude Opus 5.5 to explain the earthquake physics as an animation. This is what…" (`kureshirfan-386691`) · svg · 2026-09-28 · remake · parcial
+- "fourier series were hard to learn back in university (2 years ago) and they are fun! what…" (`miguel07code-091611`) · canvas, audio, ai-image · 2026-09-28 · remake · parcial
+- "I was struggling to explain my UX decisions in interviews, so I made this kind of…" (`moguzbulbul-215591`) · svg, gsap, css · 2026-09-28 · remake · parcial
+- "I asked opus 5.5 in @agnt_gg for the most realistic fire it could build using ONLY…" (`nathanwilbanks-981110`) · threejs, shader, audio · 2026-09-28 · remake · parcial
+- "110k rigid bodies in real time, in a browser tab. Grab anything, fire cannonballs. Built…" (`nybobs-680050`) · threejs, canvas · 2026-09-28 · remake · parcial
+- "Claude Opus 5.5 で、ドパガキ用のグラフィックの動画作りが流行っているので、物理演算で落ち着いた音づくりにも挑戦してみました。…" (`rakhsh-tech-544921`) · canvas, audio · 2026-09-28 · remake · parcial
+- "I asked Opus 5.5 again for an engine you can take apart in the browser Pistons against…" (`stefanostraus-971191`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
+- "Claude Opus 5.5 on our AI coding benchmark: build a fully autonomous 3D water simulation…" (`stephanferraro-224281`) · threejs, shader, physics · 2026-09-28 · remake · parcial
+- "I asked Opus 5.5 to explain gravitational lensing by building an interactive black hole…" (`voxyz-ai-345550`) · threejs, shader, canvas, gsap · 2026-09-28 · remake · parcial
+- "make me an animation to explain why celld earns its place." (`0xnfrith-068999`) · svg, gsap · 2026-09-26 · remake
+- "Make this PayBox logo into a reel. Pretend you are a world-class motion designer. Make a…" (`0xvalure-331584`) · threejs, canvas · 2026-09-26 · remake
+- "Make a 1-minute educational video about https://readsotto.app/ with synthesized voice…" (`1stnoel-603851`) · gsap · 2026-09-26 · remake
+- "Make a dynamic 40-second motion graphics video on Distilbook that shows what an…" (`ajith-io-562538`) · threejs, shader, canvas · 2026-09-26 · remake
+- "Adopt the role of an expert motion designer. Build a 30-second animated explainer for my…" (`alex-prompter-997524`) · svg, gsap · 2026-09-26 · remake
+- "Make a professional explainer video for https://anuprerna.com for a first-time visitor." (`amitsingha89-780553`) · svg · 2026-09-26 · remake
+- "I want you to make a 60-second, fully animated explainer video, end to end, completely on…" (`astrothewizard-618782`) · canvas · 2026-09-26 · remake
+- "I Want you to make a modern slick and punchy video for http:// datagran.io with an…" (`charlesmendez-476517`) · canvas, svg, gsap · 2026-09-26 · remake
+- "make a modern slick and punchy video for a modern startup that works on inference" (`deedydas-252537`) · svg, gsap · 2026-09-26 · remake
+- "A video explaining recursion, where every explanation about recursion has a radically…" (`emollick-019567`) · canvas · 2026-09-26 · remake
+- "make educational video out of article." (`henkvaness-975279`) · svg · 2026-09-26 · remake
+- "make a video highlighting key moments in the history of AI." (`kloss-xyz-067876`) · canvas, svg, css · 2026-09-26 · remake
+- "Build a looping "infinite zoom" animation, After Effects style: the camera travels from…" (`koldo2k-778767`) · canvas, ai-image · 2026-09-26 · remake
+- "请用Manim给我制作一个导数概念学习的视频，要求通俗易懂，并且有例子，引人思考。配音使用edge-tts" (`linearuncle-971663`) · svg, audio · 2026-09-26 · remake
+- "make a hand-drawn stop-motion animation; story: you're defi saver and explaining yourself…" (`nikolajankovic-616097`) · canvas · 2026-09-26 · remake
+- "explain a token bucket rate limiter, canvas only, no libraries, every frame a pure…" (`parkerrex-701462`) · canvas, physics · 2026-09-26 · remake
+- "Render a fun motion graphic animation using the GSAP animation platform (see below) to…" (`retropunkai-277590`) · canvas, svg, gsap, ai-image · 2026-09-26 · remake
+- "We're going to try a little test. Do you think you could render a recipe motion graphic…" (`ror-fly-880547`) · canvas · 2026-09-26 · remake
+- "Render a recipe motion graphic animation using JavaScript or HTML (whatever you think…" (`sarut0bisasuke-069973`) · canvas · 2026-09-26 · remake
+- "make a dynamic 30-seconds motion graphic video about the distilbook like a product…" (`sudo-kiran-254201`) · canvas, svg, css · 2026-09-26 · remake
+- "create best motion graphics explainer of the (your product) with very good script and…" (`sudo-kiran-335993`) · canvas, svg, gsap, css · 2026-09-26 · remake
+- "Do a quick hand-drawn whiteboard animations explaining what is replica symmetry breaking…" (`tak3sh8-441895`) · canvas, audio · 2026-09-26 · remake
+- "Create a pure javascript animation. 30s-60s whimsical hand drawn collage style with…" (`tomandrieu96707-875264`) · canvas, svg, gsap · 2026-09-26 · remake
+- "<inputs> Ask me for: • my product + URL • 8–12 UI states that tell its story • the real…" (`verbove-268381`) · canvas · 2026-09-26 · remake

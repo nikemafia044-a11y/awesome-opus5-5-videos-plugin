@@ -1,0 +1,18 @@
+{
+  "name": "awesome-opus5-5-videos",
+  "version": "1.20261013.0",
+  "description": "Biblioteca de prompts de vídeos virais feitos com o Claude Opus 5.5 (animações em HTML, Canvas, SVG e Three.js) do yihui-dev/awesome-opus5-5-videos, atualizada automaticamente.",
+  "author": {
+    "name": "nikemafia044-a11y"
+  },
+  "homepage": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+  "license": "MIT",
+  "keywords": [
+    "opus-5-5",
+    "video",
+    "motion-graphics",
+    "prompts",
+    "threejs",
+    "canvas"
+  ]
+}

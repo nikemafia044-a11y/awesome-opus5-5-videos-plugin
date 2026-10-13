@@ -1,0 +1,17 @@
+{
+  "name": "awesome-opus5-5-videos-sync",
+  "owner": {
+    "name": "nikemafia044-a11y"
+  },
+  "metadata": {
+    "description": "Espelho do yihui-dev/awesome-opus5-5-videos empacotado como plugin para o app do Claude e o Claude Code, sincronizado todo dia."
+  },
+  "plugins": [
+    {
+      "name": "awesome-opus5-5-videos",
+      "source": "./plugins/awesome-opus5-5-videos",
+      "description": "Prompts de vídeos feitos com o Claude Opus 5.5 (motion graphics, explainers, cenas 3D e jogos em código).",
+      "category": "design"
+    }
+  ]
+}

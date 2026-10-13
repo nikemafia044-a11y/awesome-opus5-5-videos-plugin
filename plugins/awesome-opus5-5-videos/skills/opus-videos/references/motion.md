@@ -1,0 +1,505 @@
+# Motion graphics: 501 prompts
+
+Formato e marcas: veja `INDEX.md`. Prompt inteiro: `prompts/<slug>.md`.
+
+- **Deterministic Frame-Based Video Rendering** (`0xkarmi-129839`) · 2026-10-12
+- **Product Launch Motion Film** (`0xnicc0-516612`) · 2026-10-12
+- **PayBox Logo Motion Design** (`0xvalure-354245`) · 2026-10-12
+- **Minecraft Street View Animation** (`0xverdao-776363`) · 2026-10-12
+- **Moose in Code Editor Film** (`1234lust-671954`) · 2026-10-12
+- **Manga Traced Music Video** (`abhinavflac-251740`) · 2026-10-12
+- **Motion Graphics Music Machine** (`adrianduta96-992248`) · 2026-10-12
+- **Trezio App Motion Graphics Showreel** (`agonaliu-326227`) · 2026-10-12
+- **Code-Generated Motion Design Showreel** (`ai9app-989009`) · 2026-10-12
+- **One-Sentence Prompt for 15s Motion Graphics** (`aiaircle34052-950750`) · 2026-10-12
+- **Opus 5.5 Motion Graphics Showreel** (`aichrislee-961335`) · 2026-10-12
+- **Mandelbrot Fractal Zoom Animation** (`aidinzeo-708182`) · 2026-10-12
+- **Galileo Brachistochrone Animation** (`aimevzulari-256293`) · 2026-10-12
+- **Apple Evolution Motion Graphics** (`airobertdaily-416945`) · 2026-10-12
+- **Remotion and Python Tech Stack for Video Generation** (`aiwarts-428866`) · 2026-10-12
+- **Website Promo Video with Remotion and Python Music** (`aiwarts-815008`) · 2026-10-12
+- **Product Promo UI Motion** (`annacher-152174`) · 2026-10-12
+- **Opus 5.5 Motion Graphics Video** (`anshitbansal21-316703`) · 2026-10-12
+- **Elite Motion Designer** (`anthonywymond-335069`) · 2026-10-12
+- **Pixel Up Labs Showreel** (`arjunsh1607-922126`) · 2026-10-12
+- **Logo-Based Motion Graphics** (`aydenspringer23-227772`) · 2026-10-12
+- **Voice Input Product Promo Animation** (`bitcoinrui-812752`) · 2026-10-12
+- **Opus 5.5 HyperFrames Director** (`bob-zaimu-006606`) · 2026-10-12
+- **Animated Intro with Synced Music** (`bogdandragomir-412658`) · 2026-10-12
+- **Motion Design Showreel** (`brankotrcek-510711`) · 2026-10-12
+- **Opus 5.5 Battery Stickman Loop Animation** (`byaiden-vu-755862`) · 2026-10-12
+- **Motion Graphics Search Bar Animation** (`cgclick-497325`) · 2026-10-12
+- **SuperLaunch Brand Motion Video** (`charumitradubey-328233`) · 2026-10-12
+- **Democracy Theme Motion Graphics** (`chrisjdimarco-960779`) · 2026-10-12
+- **Premium Product Animation** (`cipherwrk-451155`) · 2026-10-12
+- **2ch Style Video Creation** (`claudecode-ut-314769`) · 2026-10-12
+- **Microscope Zoom Animation** (`curieuxexplorer-408141`) · 2026-10-12
+- **Mackenzie Club Fox Chase Hype** (`daverogenmoser-899271`) · 2026-10-12
+- **Opus 5.5 Motion Graphics Promo** (`ddryo-loos-925621`) · 2026-10-12
+- **Anniversary Celebration** (`deebeeeff-234301`) · 2026-10-12
+- **High-end Motion Graphics Launch** (`deeprajo1-623150`) · 2026-10-12
+- **Project Showreel Prompt for Opus 5.5** (`devius-maximus-887428`) · 2026-10-12
+- **Handbook Video Creation** (`dhanrajdc-602284`) · 2026-10-12
+- **30-Second Motion Design Video in Code** (`diamai-157697`) · 2026-10-12
+- **Easy-Peasy AI Launch** (`dimoff2000-260969`) · 2026-10-12
+- **Manus Alchemy Motion Design Showreel** (`dotey-773568`) · 2026-10-12
+- **Momotaro Story Video Creation with Opus 5.5** (`drake5112-655036`) · 2026-10-12
+- **Orbital Lounge Lofi Stream Loop** (`drishtantk-356656`) · 2026-10-12
+- **Barber Shop Recruitment Motion Graphics Video** (`egawa-ai-design-092323`) · 2026-10-12
+- **Opus 5.5 Cinematic Product Promo** (`elitzavasileva-591465`) · 2026-10-12
+- **Product Launch Video Creation Workflow** (`elkrispis-872980`) · 2026-10-12
+- **RedSeed AI Motion Graphics** (`en-ra-986980`) · 2026-10-12
+- **Dynamic Motion Graphics Showreel** (`enhanced-jp-776726`) · 2026-10-12
+- **Dynamic Product Launch Video** (`ericjingyang-663713`) · 2026-10-12
+- **Pokemon Intro Animation with AI Mascots** (`fanfulladev-063524`) · 2026-10-12
+- **Product Promo Video Generation** (`federicoaltepo1-312496`) · 2026-10-12
+- **Beat-Synced Music** (`financeyf5-462150`) · 2026-10-12
+- **UI Motion Loop Design** (`flxrnc-251921`) · 2026-10-12
+- **Opus 5.5 Cat Movie Animation** (`flxrnc-619627`) · 2026-10-12
+- **SaaS Product Launch Motion Graphics** (`fractadev-861266`) · 2026-10-12
+- **Dynamic Product Showreel** (`fumiyamizuguchi-500632`) · 2026-10-12
+- **Euclid's Proof Kinetic Typography** (`gdgtify-393073`) · 2026-10-12
+- **Pelican Looping SVG Animation Comparison** (`godsboy7777-005594`) · 2026-10-12
+- **Professional Showreel Motion Graphics** (`gptaku-622525`) · 2026-10-12
+- **Dynamic Designer Portfolio Reel** (`grace-sunnyy-022677`) · 2026-10-12
+- **Perler Bead Pixel Style MV** (`hahazwei-425483`) · 2026-10-12
+- **Purpose of Life Animation** (`hakimieiqbal-762926`) · 2026-10-12
+- **Terrible Motion Designer Showreel Animation** (`henkpoley-761980`) · 2026-10-12
+- "<direction> Build a 30-second looping motion design showreel that introduces CLAUDE, a…" (`heyiamnick-119558`) · canvas · 2026-10-12 · remake
+- **Opus 5.5 vs GPT-6 Astra Motion Reel** (`ho4444no-962130`) · 2026-10-12
+- **Premium Motion Graphics Brand Film** (`humzaakhalid-011081`) · 2026-10-12
+- **Personal Skills Showreel** (`ibrahimwasim240-940763`) · 2026-10-12
+- **Prometheus story animation** (`iliareingold-486492`) · 2026-10-12
+- **Business Promo** (`ilyapion-072443`) · 2026-10-12
+- **Claude Code Multi-Agent Setup** (`imryven-495965`) · 2026-10-12
+- **Superintelligence Cinematic Video** (`indrajitsayshi-496841`) · 2026-10-12
+- **Fal AI Motion Designer Showreel** (`influencer-seo-026936`) · 2026-10-12
+- **Brand Showreel** (`ismailfahmi-466403`) · 2026-10-12
+- **SellerShield Pro Showreel Prompt for Opus 5.5** (`itzkashan2912-815858`) · 2026-10-12
+- **Startup Branding Agency Showreel** (`jacksonfall-229164`) · 2026-10-12
+- **Dynamic Launch** (`jacquelinedeel-837024`) · 2026-10-12
+- **His Tanghulu Paper Puppet Story** (`jamee-now-583635`) · 2026-10-12
+- **AI Wars Stick Figure Video** (`jasondainter-028222`) · 2026-10-12
+- **FundMyCompute Platform Overview Video** (`jayscambler-495095`) · 2026-10-12
+- **AgentHud Project Animation** (`jazzen-chen-894989`) · 2026-10-12
+- **Short Video Instruction Template** (`jiro-aicompany-487818`) · 2026-10-12
+- **AE MCP Motion Graphics Prompts** (`johncodunayo-560372`) · 2026-10-12
+- **Dynamic Motion Graphics Showreel** (`johnjoubert-891005`) · 2026-10-12
+- **Founder-voiced AI agent comedy clip skill** (`johnmckeownn-511049`) · 2026-10-12
+- **Hedy SaaS Launch** (`julianpscheid-494027`) · 2026-10-12
+- **Spider's Thread motion comic** (`kaiyu-ai-762929`) · 2026-10-12
+- **Product Promo Motion Design** (`kevintao1024-657708`) · 2026-10-12
+- **Nobel prize science** (`kewai386772-262769`) · 2026-10-12
+- **Widget Animation Motion Design** (`khlaseek-dsgner-877659`) · 2026-10-12
+- **Reactive Resume Motion Graphics Showreel** (`kingokings-835071`) · 2026-10-12
+- **Motion Design Showreel from Song** (`kisalay-921896`) · 2026-10-12
+- **Evangelion Style Lyric Video** (`kurahu-capten-054506`) · 2026-10-12
+- **Dalí Generative AI Animation** (`lalulu-create-091362`) · 2026-10-12
+- **X Profile Show Reel HTML Animation** (`lemcosmos-535145`) · 2026-10-12
+- **Clawd Moves In Fan-Film Recreation** (`leo114119-936422`) · 2026-10-12
+- **Code-Drawn Product Launch Video** (`ligayabeebe-323995`) · 2026-10-12
+- **Nyc tourism promo video** (`linearuncle-331442`) · 2026-10-12
+- **Product Release** (`listudio-023803`) · 2026-10-12
+- **Dynamic Showreel Motion Graphics** (`mahdif-132095`) · 2026-10-12
+- **Bold Video SaaS Launch Animation** (`marcelfahle-249018`) · 2026-10-12
+- **Mathematics Themed Motion Graphics** (`math-files-610052`) · 2026-10-12
+- **X Vision Brand Promo** (`meetarno-782464`) · 2026-10-12
+- **Opus 5.5 Brand Showreel** (`miketromba-606919`) · 2026-10-12
+- **Cheese Camera Concept Animation** (`mileson07-065690`) · 2026-10-12
+- **Motion Graphics Product Launch Video** (`minochan0824-827805`) · 2026-10-12
+- **Meta VR Glasses Promo Variations** (`mouri45-575311`) · 2026-10-12
+- **Opus 5.5 Self-Personification Motion Graphics** (`mtvneo-819281`) · 2026-10-12
+- **Opus vs Sonnet Product Promo Video** (`murph-2-394445`) · 2026-10-12
+- **Claude Motion: Opus 5.5 Animated Story** (`n01ennn-597182`) · 2026-10-12
+- **Future World Animated** (`nathankochera-114905`) · 2026-10-12
+- **Opus 5.5 UI Motion Loop** (`niebin-gg-621849`) · 2026-10-12
+- **Glass Mosaic Animated Film** (`nischalsharma-587738`) · 2026-10-12
+- **Motion Graphic Showreel** (`nonbiri-ai-110674`) · 2026-10-12
+- **12-Second Code-Based Launch Animation** (`notdwd-766641`) · 2026-10-12
+- **Brand Film Prompt Structure** (`notdwd-998633`) · 2026-10-12
+- **UI Motion Design Animation** (`okapi-fukugyo-166351`) · 2026-10-12
+- **Product Promotional** (`oliahmed205-069378`) · 2026-10-12
+- **Canvas Video with Web Audio Synthesis** (`oxpsats-182908`) · 2026-10-12
+- **Faith Short Film Animation** (`paripune-657175`) · 2026-10-12
+- **Referral Program Motion Graphics** (`paulo-kombucha-283883`) · 2026-10-12
+- **Trojan Horse Ancient Greek Vase Animation** (`perezalexa23-414045`) · 2026-10-12
+- **Particle Effect Video Workflow** (`pluvio9yte-662953`) · 2026-10-12
+- **Motion Graphic from LP Image with Opus 5.5** (`ponzponz15-145882`) · 2026-10-12
+- **Sumi-e Ink Film** (`pradeepxkapoor-641956`) · 2026-10-12
+- **Remotion Product Launch Film Code** (`punit-io-584518`) · 2026-10-12
+- **Startup Promo Video** (`q970270495-497923`) · 2026-10-12
+- **Remotion Product Demo** (`qianqiongge-246969`) · 2026-10-12
+- **QuickDesign Brand** (`quickdesignio-338399`) · 2026-10-12
+- **Time Story** (`rebutonepress-688099`) · 2026-10-12
+- **Create Future-Themed Video Animation with Sound Effects and Music** (`renmu2017-477264`) · 2026-10-12
+- **Opus 5.5 Hyper Frame Motion Video** (`reyzostyle-542114`) · 2026-10-12
+- **Weather Gnome App Promo by Opus 5.5** (`riverroadlabs-269620`) · 2026-10-12
+- **Product Roadmap Teaser Animation** (`robj3d3-994822`) · 2026-10-12
+- **Paul Graham Essay Video with Opus 5.5** (`rohanpaul-ai-500542`) · 2026-10-12
+- **Max Effort Motion Design Showreel** (`roundtablespace-232366`) · 2026-10-12
+- **Dynamic Feature Presentation Motion Graphics** (`roxanalimban-214105`) · 2026-10-12
+- **Hoplite Feature Launch** (`ryan-morr-666741`) · 2026-10-12
+- **Dynamic Motion Graphics Reel** (`ryoheiikeda-809280`) · 2026-10-12
+- **Dynamic Motion Graphics Showreel** (`samuel-yostt-555412`) · 2026-10-12
+- **Dynamic Product Showreel Motion Graphics** (`sankalpdomore-482100`) · 2026-10-12
+- **SaaS Launch Video Animation** (`screeendev-981790`) · 2026-10-12
+- **Professional SaaS Product Launch Video** (`sdinesh91-159008`) · 2026-10-12
+- **Opus 5.5 Remotion Product Promo Video** (`shengtang135754-900065`) · 2026-10-12
+- **Motion Graphics Launch** (`softal-io-614622`) · 2026-10-12
+- **SportyBlocks Launch Video** (`sportyblocks-320796`) · 2026-10-12
+- **Opus 5.5 vs Sonnet 5.5 Motion Design** (`sslinnn-830625`) · 2026-10-12
+- **Perceptron Release Reel** (`subraiz24-994209`) · 2026-10-12
+- **Hedgehog in the Fog Animated Short** (`superalesha-970412`) · 2026-10-12
+- **Claude Self-Introduction Motion Graphics** (`tanabe-fragm-706979`) · 2026-10-12
+- **TypingMind Logo Reveal Motion Design** (`tdinh-me-301409`) · 2026-10-12
+- **Opus 5.5 Promo Video Animation** (`teleboost-app-521507`) · 2026-10-12
+- **Steam Engine Explanation** (`testlandblog-617500`) · 2026-10-12
+- **Product Video Generation** (`thallisribeiro-750805`) · 2026-10-12
+- **Code-Built Brand Promo Motion Graphics** (`thegawdstiles-738178`) · 2026-10-12
+- **Opus 5.5 Product Demo** (`thegreatola-738411`) · 2026-10-12
+- **Apple Keynote Launch Film HTML** (`thejohnnyhuy-282154`) · 2026-10-12
+- "Show me the next 30 years. One shot, no cuts. Five stops: 2026, Earth at night under a…" (`thesethian-384517`) · threejs, shader · 2026-10-12 · remake
+- **Code-Generated Music Video Animation** (`thewevr-681887`) · 2026-10-12
+- **Product Update Motion Graphics** (`thilina-a-915273`) · 2026-10-12
+- **Huawei Phone Ad Prompt Skeleton** (`thinkszyg-886066`) · 2026-10-12
+- **Track Card Video Prompt for Opus 5.5** (`tkz-aiart-864352`) · 2026-10-12
+- **Brain Death Animation Prompt for Opus 5.5** (`tonka1981jp-288376`) · 2026-10-12
+- **Opus 5.5 Dance Video from Image** (`topi-003-055288`) · 2026-10-12
+- **Dynamic Motion Graphics Showreel** (`topi-003-592443`) · 2026-10-12
+- **Opus 5.5 Dynamic Dance** (`topi-003-659728`) · 2026-10-12
+- **YouTube Transcript Ad Motion** (`tstfully-680192`) · 2026-10-12
+- **Launch Trailer Video Generation** (`twoclipping-551116`) · 2026-10-12
+- **Nightshift Product Launch Video** (`twoclipping-747965`) · 2026-10-12
+- **Oktoberfest Character Animation** (`uinerd-635877`) · 2026-10-12
+- **Bold Pilot Showreel Motion Graphics** (`utopyaszx-624771`) · 2026-10-12
+- **Opus 5.5 Brand Teaser** (`utsavchopra30-560359`) · 2026-10-12
+- **Motion Design Skill for Opus 5.5** (`varaaddurgaay-697602`) · 2026-10-12
+- **Opus 5.5 Launch Film Code** (`vignesh-rav-417649`) · 2026-10-12
+- **Renaissance Naturalist Manuscript Style Video** (`wangyinrec-532344`) · 2026-10-12
+- **Simple Motion Design Launch** (`wozu-co-893062`) · 2026-10-12
+- **Vox-Style Video Generation with Motion Library** (`x7mdnet-157811`) · 2026-10-12
+- **Psychedelic Motion Graphics** (`yama-kiyo-134910`) · 2026-10-12
+- **Opus 5.5 Remotion** (`yanivm79-158103`) · 2026-10-12
+- **Seattle Motion Graphics Video by Opus 5.5** (`yanliudesign-839698`) · 2026-10-12
+- **Obsidian Plugin Promo Animation** (`yatudou14-822057`) · 2026-10-12
+- **Dynamic Self-Introduction Motion Graphics** (`yuyudora622-858156`) · 2026-10-12
+- **Opus 5.5 Motion Graphics Showreel** (`zarvxbt-587026`) · 2026-10-12
+- **Rain Station Animated Short** (`zhu185178-255661`) · 2026-10-12
+- **Agentic Analytics Startup** (`zigapoto-942208`) · 2026-10-12
+- "Remotion Opus 5.5" (`0xrapzz-433554`) · canvas, svg, gsap · 2026-10-08 · remake · parcial
+- "Opus 5.5 + Remotion" (`alex-leiro-867087`) · css · 2026-10-08 · remake · parcial
+- "Motion Designers are cooked Made this with the new @claudeai Opus 5.5 + @Remotion in a…" (`allodev-069765`) · svg · 2026-10-08 · remake · parcial
+- "This whole video is AI-generated. Claude Opus 5.5 wrote the code, the motion and even the…" (`apoorvjain25-150112`) · canvas, svg, gsap · 2026-10-08 · remake · parcial
+- "Claude CodeのOpus 5.5とRemotionで動画を作りました🎬 15秒の映像で、文字や実績の数字、売上グラフを動かしています。…" (`asei-ikarashi-437835`) · canvas, svg, gsap · 2026-10-08 · remake · parcial
+- "自分驚き屋やれます！Claude Opus 5.5にショート動画を作ってもらいました。Remotionを使用。キャライラストはmidjourneyで以前作ったものです。…" (`ayumi-t820-871023`) · svg, gsap · 2026-10-08 · remake · parcial
+- "I made 4 motion videos for @Shillz_Official in 3 days without opening After Effects. no…" (`colecornelll-047465`) · threejs, canvas · 2026-10-08 · remake · parcial
+- "Cardilife 1.3 をリリースしました。 あわせて紹介動画を作りました（56秒）。 動画は Claude Code（Opus 5.5 と Fable…" (`dengent-412996`) · threejs, svg · 2026-10-08 · remake · parcial
+- "Claude opus 5.5 made this whole motion graphic, score included It coded every frame…" (`dheepanratnam-706454`) · svg, gsap · 2026-10-08 · remake · parcial
+- "I asked Claude Opus 5.5 to make a launch @remotion video for TopSlash. No video editor…" (`envoldev-017555`) · canvas, svg, gsap, css · 2026-10-08 · remake · parcial
+- "Opus 5.5 on Max effort (Sound On): "A 24-second AI In Public motion reel in Remotion at…" (`humzaakhalid-537875`) · canvas · 2026-10-08 · remake · parcial
+- "This IdeaVim promo video was fully generated by Claude Opus 5.5 with the HyperFrames…" (`ideavim-986785`) · svg · 2026-10-08 · remake · parcial
+- "Feito em ~30 min com o HyperFrames Studio. A melhor UX que eu já tive com softwares de…" (`joaquimcassano-778239`) · svg, gsap · 2026-10-08 · remake · parcial
+- "i had Opus 5.5 in @HyperFrames_ studio recreate this in one shot. voice from @ElevenLabs…" (`justinbuilds-412401`) · canvas · 2026-10-08 · remake · parcial
+- "This is what i have build using @HyperFrames Studio one shot prompt by opus 5.5" (`kzmucx-402052`) · svg, gsap · 2026-10-08 · remake · parcial
+- "No tiene sentido que esto haya salido con un solo prompt con Opus 5.5 e Hyperframes" (`leandroriviello-827135`) · svg, gsap · 2026-10-08 · remake · parcial
+- "Opus 5.5 is INSANE !!🫣 i just made a full product launch film for @Meituan_LongCat…" (`leowenai-125931`) · shader, canvas, svg · 2026-10-08 · remake · parcial
+- "from may 1st -> oct 1st, trending on github, again and every time, it's cuz the SOTA LLMs…" (`liu8in-891423`) · canvas, svg · 2026-10-08 · remake · parcial
+- "I hate LinkedIn so much that I had Opus 5.5 + remotion make a launch video about it. I am…" (`maxhirsch13-600983`) · svg, gsap · 2026-10-08 · remake · parcial
+- "cooked up this teaser for lernok with opus 5.5 and remotion!" (`nehalmax-802479`) · canvas, svg, gsap, css · 2026-10-08 · remake · parcial
+- "@claudeai Opus 5.5 is sick. claude code's mascot >> 【作者补充制作说明】 @claudeai - Used Opus 5.5…" (`rishit30g-568278`) · svg · 2026-10-08 · remake · parcial
+- "Claude Opus 5.5 🤝 Remotion = 🔥 all of Nafa's marketing runs through Claude now. we gave…" (`saadpastadev-347341`) · svg, gsap, css · 2026-10-08 · remake · parcial
+- "Okay so this is it Sound design is not so good, will work on that and give you a better…" (`saxxyweb3-690124`) · canvas, svg, gsap · 2026-10-08 · remake · parcial
+- "／ 通院メモリー iOS版リリースしました！ ＼ #個人開発 審査は通ってたのですが、動画制作に手間取ってました…😇 Opus5.5/Remotion/Gemini…" (`seri-nonnon-231813`) · svg, gsap · 2026-10-08 · remake · parcial
+- "Are Motion Designers Cooked? Completely made through Opus 5.5 (Medium) + Remotion." (`smitjaineditor-843957`) · svg, gsap · 2026-10-08 · remake · parcial
+- "Gave Claude Opus 5.5 one reference video. It came back with a full cinematic launch…" (`sonali-sahu-09-350200`) · svg, gsap, css · 2026-10-08 · remake · parcial
+- "opus 5.5 + hyperframes is an unholy combo share SHIT with whoever needs" (`soumymaheshwri-825921`) · css · 2026-10-08 · remake · parcial
+- "良い笑 ・入れたプロンプト 「今日何曜日だっけ？BGM付きの30秒のかっこいいモーショングラフィックスで教えて（全力を出してください）」…" (`tankazunori0914-156748`) · canvas · 2026-10-08 · remake · parcial
+- "Opus 5.5 ve remotion ile scroll+ için bir tanıtım videosu hazirlattım. Bence çok iyi…" (`xenit-v0-532873`) · gsap, css · 2026-10-08 · remake · parcial
+- "Armé este reel para mi web de gestión de eventos con Opus 5.5 Todo es código: React +…" (`alanschwegler-629665`) · svg · 2026-09-29 · remake · parcial
+- "Este video lo hizo una IA 🤯 Con código, no con plantillas. Le pedí a Claude Opus 5.5 un…" (`als-link-301108`) · canvas, svg · 2026-09-29 · remake · parcial
+- "Opus5.5 motion graphics Remotionだと簡単に使いまわせるので便利！ #AIMotionDesign" (`ambiguous-ai-505873`) · shader, canvas · 2026-09-29 · remake · parcial
+- "Claude Opus 5.5 made this whole video in code. There was no editor, no After Effects and…" (`apoorvjain25-309680`) · svg · 2026-09-29 · remake · parcial
+- "I couldn't resist to do it one more time, this time for RedShip.. and it's waaaaay…" (`aschapmann-724497`) · svg, gsap, css · 2026-09-29 · remake · parcial
+- "Claude Opus 5.5 just created this merch launch video for BridgeMind using Remotion. The…" (`bridgemindai-286423`) · svg, gsap, css · 2026-09-29 · remake · parcial
+- "I didn't open After Effects once This promo for my indie apps is 100% code: Claude Opus…" (`chapi13-131449`) · svg, css · 2026-09-29 · remake · parcial
+- "claude code (opus 5.5) made the product film for taxtello, my bookkeeping app every frame…" (`daniel-haida-636937`) · canvas, svg, css · 2026-09-29 · remake · parcial
+- "Cursor usando o Opus 5.5 instale a skill hyperframes via terminal depois rodei…" (`danilowm-412022`) · canvas, svg, css · 2026-09-29 · remake · parcial
+- "I guess i had to step on the motion train as well. Asked Claude Opus 5.5 to create a…" (`dannyverkissen-101463`) · css · 2026-09-29 · remake · parcial
+- "I tied brag + remotion + opus 5.5 max and this oneshot launch teaser for…" (`devarshukani-341827`) · canvas, svg, gsap · 2026-09-29 · remake · parcial
+- "I was able to make this product motion video for https://getverde.ai using Opus 5.5 +…" (`djadkison-394122`) · canvas, svg · 2026-09-29 · remake · parcial
+- "I had to play along and see what kind of remotion video Claude Opus 5.5 could create for…" (`dustindavis-644806`) · canvas, svg, gsap, css · 2026-09-29 · remake · parcial
+- "How far can Claude Opus 5.5 go in motion design? I tried. 15 s on the Audi RS 6, 100%…" (`dys-hay-749645`) · canvas, svg · 2026-09-29 · remake · parcial
+- "alright opus 5.5 is pretty damn good at motion graphics our @Muse connector tracker is…" (`elliot-garreffa-446825`) · canvas, svg, css · 2026-09-29 · remake · parcial
+- "@rexan_wong Agree with all of this. Ours wasn't one prompt either: built with Claude Code…" (`fr-sorrentino-871017`) · canvas, svg, gsap · 2026-09-29 · remake · parcial
+- "this was 100% opus 5.5. i have a dedicated "studio" repo with all my project's style…" (`francoxavier33-341663`) · svg, gsap · 2026-09-29 · remake · parcial
+- "話題の Opus 5.5 のモーショングラフィックス、原作プロンプトそのままで再現してみた。 Claude Code + Remotion 公式プラグイン、effort は…" (`genelab-999-088672`) · canvas, svg · 2026-09-29 · remake · parcial
+- "I have to admit, this blew my mind. I saw people using Opus 5.5 + Remotion for launch…" (`georgejimenez98-427173`) · svg, css · 2026-09-29 · remake · parcial
+- "This video was made with Opus 5.5, Hyperframes, ElevenLabs with Music, SFX and Voices…" (`georgejimenez98-431559`) · gsap, css · 2026-09-29 · remake · parcial
+- "Oh yeah, Opus 5.5 is it.. Created in 10 minutes with remotion inside the Claude Code…" (`goldiez2599-685869`) · css · 2026-09-29 · remake · parcial
+- "I'm a solo founder with no video editor, no designer and no After Effects. So I built…" (`helloshiva0801-438284`) · canvas, svg, css · 2026-09-29 · remake · parcial
+- "the introduction made with opus 5.5 + remotion introducing @TryGofy — the live map of…" (`heymrzak-349060`) · svg, gsap · 2026-09-29 · remake · parcial
+- "Claude Opus 5.5 is incredible. I gave it a pretty simple task: Create a Remotion-based…" (`iammukeshm-421585`) · canvas, svg, css · 2026-09-29 · remake · parcial
+- "i've been sitting on @ccdotdirectory for over a year, waiting for anthropic to pull ahead…" (`iamshankhadeep-506266`) · svg · 2026-09-29 · remake · parcial
+- "I WAS QUOTED $3000 FOR THIS!!! So I asked Opus 5.5 (medium) to create a launch video…" (`ik-builds-585923`) · canvas, svg · 2026-09-29 · remake · parcial
+- "opus5.5 + Remotion + Gemini3.8 TTS たったの1時間でうちのプロダクトの広告動画2本できた・・・ もう一生外注しないw…" (`inoue-aix-234322`) · svg · 2026-09-29 · remake · parcial
+- "/session-story created a skill for opus 5.5 using @HyperFrames_ - claude reads your local…" (`jake11moran-825416`) · canvas, svg · 2026-09-29 · remake · parcial
+- "@gonahmias Le pedi un video para mostar un servicio de mi Agencia de IA (Opus 5.5 +…" (`javi-llofriu-059888`) · svg, css · 2026-09-29 · remake · parcial
+- "AI video editing has been improving quite a bit. Claude made this in about 5 mins with…" (`jayjohnsonai-117305`) · shader, canvas, svg · 2026-09-29 · remake · parcial
+- "motion reel do http://ondefica.app inspirada no @gabrielbuzziv e @condzxyz, segui o…" (`jesscaroline7-955094`) · threejs, canvas, svg, gsap · 2026-09-29 · remake · parcial
+- "This product video was generated entirely by Claude Opus 5.5. Our colleague @kristel_tech…" (`jetbrains-754812`) · canvas, svg · 2026-09-29 · remake · parcial
+- "Não tava botando fé no hyperframes + opus 5.5 max effort, mas isso aqui ficou sensacional." (`joao-felixl-809438`) · svg, gsap · 2026-09-29 · remake · parcial
+- "I thought the Opus 5.5 design posts were all jokes. They're not. It's GOATed at design. I…" (`kingokings-992769`) · canvas, svg, css · 2026-09-29 · remake · parcial
+- "I made a launch ad for @grouped_news in an hour with Opus 5.5 and Remotion, and I never…" (`l3d1c-632524`) · svg · 2026-09-29 · remake · parcial
+- "Claude Opus 5.5が凄すぎる…！ Remotion × three.jsでM3E Canvasの動画を作ってみた👇️" (`lnkiai-544254`) · threejs, svg, gsap, css · 2026-09-29 · remake · parcial
+- "Okay Opus 5.5 + Remotion and a solid concept for what you want is producing amazing…" (`localjulius-625706`) · svg · 2026-09-29 · remake · parcial
+- "流行ってることは一回試しとくマン。 Claude Code（Opus 5.5）でモーショングラフィックスを作るのが面白いみたいなので、「シンまじん式のPV作って」と頼んだだけで、こ…" (`majin-appsheet-693327`) · canvas, svg · 2026-09-29 · remake · parcial
+- "Comme tous le monde j'ai essayer le combo Opus 5.5 et remotion voilà le résultat en un…" (`mousszy-baby-014197`) · canvas · 2026-09-29 · remake · parcial
+- "Opus5.5 解説 hyperframesチャレンジ２ ノリが良いのできた♪" (`papaneco-life-541187`) · svg · 2026-09-29 · remake · parcial
+- "Claude Opus 5.5 + HyperFrames + Gemini Flash 3.8 + Three js で架空の家計簿サービスの動画作ってみたけど、なかなか良い" (`petert-350098`) · threejs, canvas, svg, css · 2026-09-29 · remake · parcial
+- "I just one-shotted this video with Opus 5.5 and @Remotion for the new @agentaOS promo…" (`pisajeski-168993`) · canvas, css · 2026-09-29 · remake · parcial
+- "I made our launch video entirely with Claude. No After Effects. No editor. Every frame is…" (`piyushaaryan2-196586`) · canvas, svg · 2026-09-29 · remake · parcial
+- "@tibo_maker Wanna rate mine Tibo? Opus 5.5 + Remotion + My Custom Harness" (`pranavclickks-254816`) · gsap, css · 2026-09-29 · remake · parcial
+- "Claude Opus 5.5 just created this launch video for GetStopover using Remotion. The taste…" (`priyansh0327-206409`) · canvas, svg, gsap · 2026-09-29 · remake · parcial
+- "Tried the Remotion skill in Claude Code (Opus 5.5 xhigh) for fun. Mind-blowing: it built…" (`proanaliteg-458642`) · svg · 2026-09-29 · remake · parcial
+- "Made this 30s motion-graphics promo for https://gmapsscraper.io with Opus 5.5 It read our…" (`qinelke-271655`) · svg, gsap, css · 2026-09-29 · remake · parcial
+- "Claude Opus 5.5 made this launch video for https://dualsense.studio using Remotion. A few…" (`safaelmali-004843`) · threejs, svg, gsap · 2026-09-29 · remake · parcial
+- "Opus 5.5 + Gemini for the music + @Remotion for the skill About 30min to run and export…" (`seantiffonnet-675262`) · gsap · 2026-09-29 · remake · parcial
+- "Created a launch video for my startup https://bestproductivityresources.com with Claude…" (`shushant-l-619370`) · svg, gsap · 2026-09-29 · remake · parcial
+- "エディトリアル風。Opus 【作者补充制作说明】 Opus5.5で、Remotion+ElevenLabs(BGM)+ Gemini…" (`signalz-jp-918002`) · svg · 2026-09-29 · remake · parcial
+- "Opus5.5 × Remotionでコードのみで映像作ってみました！ポン出しでこれは凄い。動画生成との使い分けで幅がほんとに広がりそう。次AEを本気で動かしてみます…" (`t4k1ra-cg-110846`) · canvas, svg · 2026-09-29 · remake · parcial
+- "Amazing that this is possible now. I made this with Opus5.5. It controls blender…" (`tardigrade111-160686`) · threejs, svg, gsap · 2026-09-29 · remake · parcial
+- "this is INSANE! The whole Twitter → 𝕏 story in 30 seconds, and I didn't touch a single…" (`tejasthange3-128242`) · canvas, svg, css · 2026-09-29 · remake · parcial
+- "Opus 5.5 + @Remotion "make a dynamic 15-second motion graphics video that shows what an…" (`tequilafunks-127728`) · threejs, canvas · 2026-09-29 · remake · parcial
+- "TÁ BIZARRO ESSE OPUS 5.5 😲 Eu nem acreditei no resultado. Foi feito com one prompt shot…" (`thallisribeiro-829318`) · canvas, svg · 2026-09-29 · remake · parcial
+- "TUTORIAL do @gabrielbuzziv > o mais insano ta, é que isso gastou tipo 5% do limite de 5…" (`thayto-dev-739735`) · gsap · 2026-09-29 · remake · parcial
+- "Getting in on the Opus 5.5 motion graphics fun, truly impressive outcome for a fun…" (`theviableedge-869918`) · svg · 2026-09-29 · remake · parcial
+- "Premier jet Opus 5.5 Max + Remotion" (`thuggy-juice-072370`) · svg, gsap · 2026-09-29 · remake · parcial
+- "@claudeai I was jealous of the Opus 5.5 video demos, so I linked the best ones and asked…" (`tycenjm-098014`) · canvas, svg · 2026-09-29 · remake · parcial
+- "I didn't believe it but this was 100% Opus 5.5 Max, in 8h15 min. Gave it access to…" (`vince-builds-355650`) · css · 2026-09-29 · remake · parcial
+- "claude codeで動画作成が流行ってるけど、AI臭さがあるからどっかでみたことあるようなスタイリッシュな動画を作ってみた CMとしては使えるかな？ 使ったもの：Claude…" (`washow-cfo-175311`) · canvas, svg · 2026-09-29 · remake · parcial
+- "Last week, we launched column permissions! I’m not on Notion’s video team, but with the…" (`wustep-884086`) · svg · 2026-09-29 · remake · parcial
+- "ما أعتقد في قفزة سواها Opus 5.5 تساوي القفزة اللي سواها في صناعة ال motion graphics، سواء…" (`yarhmm-341449`) · svg · 2026-09-29 · remake · parcial
+- "Opus 5.5 is on STEROIDS gave Claude Code one prompt and it made this 15 second motion…" (`zakisbuilding-495680`) · canvas · 2026-09-29 · remake · parcial
+- "趁着今天有空回看和分析了一下整个视频 审美在线的Opus 5.5确实顶 @claudeai 3D渲染器像素风 这个渲染效果确实做得很强，逻辑调度能力和美学素养确实是挂钩的…" (`sciencedegens-843325`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
+- "群友一句话提示词 用Opus5.5做的粒子网站 真的太酷了" (`zhang-baoqing-920413`) · threejs, canvas, particles · 2026-09-28 · remake · parcial
+- "make a similar version but with a crypto reference" (`0xevinho-436195`) · canvas, particles, pixel · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video for AIsa. Go all out." (`0xfemyn-137833`) · canvas, svg, css · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`0xscoffie-779830`) · canvas, svg, gsap · 2026-09-26 · remake
+- "create a 30 second ad for Opus 5.5 inspired by Apple 1984 ad, iykyk! avoid the border…" (`1littlecoder-378066`) · canvas · 2026-09-26 · remake
+- "make a dynamic 10-second motion graphics video that shows who are you as Opus 5.5 - be as…" (`1littlecoder-914649`) · canvas · 2026-09-26 · remake
+- "Make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`3xtihor-159839`) · canvas · 2026-09-26 · remake
+- "You are a professional videographer. Create me a high-definition, creative, playful, and…" (`abderrahmen-g-899031`) · canvas, svg, gsap, css · 2026-09-26 · remake
+- "Make a 20-second title sequence for a Netflix thriller that doesn't exist yet. Make it…" (`abhinayguptha-259981`) · shader, webgl, canvas · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`adamdesgns-768014`) · canvas · 2026-09-26 · remake
+- "make a 20-second motion graphics manifesto for DreamFort: "superintelligence should…" (`advait-jayant-712107`) · canvas · 2026-09-26 · remake
+- "make a 1-min promo for this product from the codebase." (`ai-baymax-416787`) · gsap · 2026-09-26 · remake
+- "Create a bold, dynamic 15-second motion graphics video that showcases your best motion…" (`aistocksavvy-483320`) · canvas, svg, css · 2026-09-26 · remake
+- "Research Distilbook.Make a dynamic 40-second motion graphics video on Distilbook that…" (`ajith-io-208546`) · canvas, svg, gsap, css · 2026-09-26 · remake
+- "Take reference from the given video (download it) and use the same visual style. and…" (`ajith-io-615243`) · canvas, particles · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`ajith-io-890146`) · canvas · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`akbuilds-150675`) · canvas, svg · 2026-09-26 · remake
+- "SCENE CONTEXT Night side of the Earth. A space station in orbit; 📷@mila is inside at a…" (`alexwtlf-981005`) · canvas · 2026-09-26 · remake
+- "I've included an MP4 file and an original link to a video that is called "Claude Pop."…" (`anabology-491441`) · canvas, ai-image · 2026-09-26 · remake
+- "fait moi une vidéo sympa pour https://heeya.fr" c'est impressionant" (`anas0ra-952637`) · threejs, canvas · 2026-09-26 · remake
+- "make a 15-second showreel about my website. Go all out." (`andginja-618685`) · canvas, svg, css · 2026-09-26 · remake
+- "Dentro da pasta do flora tem uma outra pasta chamada "ads" com videos e prints do…" (`andre-lucaxxs-846347`) · canvas, svg, gsap · 2026-09-26 · remake
+- "faça uma animação de stickman's numa batalha naval, use meus SFX em tal pasta" (`andriyfernandes-807308`) · canvas, audio · 2026-09-26 · remake
+- "I want you to independently do an end-to-end complete pass on making 20 second story led…" (`anjmaxx-459455`) · canvas, pixel · 2026-09-26 · remake
+- "Make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`ann-nnng-852885`) · canvas · 2026-09-26 · remake
+- "Analyze http://sprites.ai and build a product promo from our own UI, not generic…" (`annacher-433425`) · svg · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`anxuanng-990790`) · svg · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible work Studio1…" (`astrodevil-392708`) · canvas, svg, gsap · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`ayushunleashed-084755`) · canvas · 2026-09-26 · remake
+- "make a dynamic 10-second motion graphics video that shows what an incredible motion…" (`bhanujraj-928454`) · canvas, svg, css · 2026-09-26 · remake
+- "Research http:// Bento.surf. Make a dynamic 40-second motion graphics video on http://…" (`bizibeast-505124`) · svg, gsap, css · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`blue-clarity-449603`) · canvas, particles · 2026-09-26 · remake
+- "Make a dynamic 15-second motion graphics video of me introducing myself to a recruiter…" (`blushpetal795-170220`) · canvas · 2026-09-26 · remake
+- "Create a complete, polished Spotify-themed motion graphics video from the following…" (`brainextends-606193`) · shader, svg · 2026-09-26 · remake
+- "merak ediyorum ne kadar iyi bir hareketli grafik tasarımcısısın. Bunu bana kanıtlamak…" (`cansincengiz-me-424245`) · threejs, canvas · 2026-09-26 · remake
+- "make a dynamic 15 second motion graphics video pitching my Amazon wholesale company…" (`ceowinkz-683602`) · canvas, svg · 2026-09-26 · remake
+- "make a cool instagram ad for liinks" (`charliie-334026`) · svg, css · 2026-09-26 · remake · parcial
+- "以动态设计师的高级审美，制作一段动态的15秒动态图形视频" (`chatgptastra-807540`) · canvas · 2026-09-26 · remake
+- "make a samurai dude in only javascript and have him doing a routine in a single spot…" (`chrisjdimarco-524106`) · canvas, particles, physics · 2026-09-26 · remake
+- "make a dynamic 60-second motion graphics video that shows what an incredible motion…" (`chrisjdimarco-808196`) · canvas · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`codestackr-328129`) · canvas · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`crazyalphaaa-480622`) · canvas · 2026-09-26 · remake
+- "create a self contained aesthetically pleasing, breathtaking animation of the Sahi…" (`dale-vaz-879074`) · canvas · 2026-09-26 · remake
+- "I want to try something different here. You should act as a world-class animator and…" (`daniel-mac8-306214`) · svg, gsap · 2026-09-26 · remake
+- "make a dynamic 15 second motion graphics video that shows what an incredible motion…" (`dansushik-289121`) · canvas · 2026-09-26 · remake
+- "make a punchy and modern short video for social that promotes @lightspark capabilities…" (`davidmarcus-686217`) · svg, gsap · 2026-09-26 · remake
+- "Create a 60 second music video in the style of Peter Gabriel's Sledgehammer and Big Time…" (`davidshulmanfl-842921`) · threejs, canvas, audio · 2026-09-26 · remake
+- "<inputs> Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader…" (`demonugc-525162`) · svg · 2026-09-26 · remake
+- "Make a dynamic 15-second motion graphics video about https://octostudio.co that shows…" (`designbyfusun-559069`) · canvas, css · 2026-09-26 · remake
+- "I'd like you to make a music video in a similar style to this one…" (`doubleunplussed-181894`) · canvas · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`dris1153-101043`) · canvas · 2026-09-26 · remake
+- "I want you to create a highly professional SaaS product launch video. Go and find some…" (`drrickio-009558`) · svg, gsap · 2026-09-26 · remake
+- "<inputs> Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader…" (`dzhohola-249003`) · css · 2026-09-26 · remake
+- "can you search for the picture of Mona Lisa, then replicate it using mouse movement and…" (`ehsanik-162993`) · canvas · 2026-09-26 · remake
+- "Build 5 completely different scroll-based sections, decide the context & layout yourself." (`ercankeskinx-897906`) · canvas, svg · 2026-09-26 · remake
+- "I want you to create a "Happy Mid-Autumn Festival" video in hand drawn canvas animation…" (`eric-khun-667455`) · canvas · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`eyishazyer-129686`) · canvas · 2026-09-26 · remake
+- "设计个动画，介绍本项目的各项特性，像是专业的产品介绍宣传片，最后要生成 16:9 的mp4 视频" (`ezshine-750731`) · canvas, svg, gsap · 2026-09-26 · remake
+- "make a 4-minute animated short that blows my mind." (`faroukzy-138551`) · canvas · 2026-09-26 · remake
+- "Use apenas: JavaScript, Playwright e FFmpeg. Faça um vídeo moderno, elegante e impactante…" (`felipemoller-936736`) · threejs, svg, gsap · 2026-09-26 · remake
+- "Make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`fionntobin-479597`) · threejs, shader, canvas · 2026-09-26 · remake
+- "I want to know how good a graphic designer you are. To prove this to me, I want you to…" (`fire-ozgur-130104`) · canvas · 2026-09-26 · remake
+- "Yapabileceğin en etkileyici patlama efektini ve onu taşıyacak özgün sahneyi üret. Ölçeği…" (`fornyapayzeka-135914`) · threejs, shader · 2026-09-26 · remake
+- "Yapabileceğin en etkileyici havai fişek veya ışıklı parçacık gösterisini üret. Ortamı ve…" (`fornyapayzeka-795431`) · threejs, shader, particles · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`gabrielbuzziv-057430`) · threejs, svg, css · 2026-09-26 · remake
+- "an Apple-style 30s video of my app" (`gautam-mer1-530003`) · canvas, svg, gsap · 2026-09-26 · remake · parcial
+- "Create a 20.00-second kinetic spoken-word film titled “BUILD THE FLOOR.” Treat this as an…" (`gdgtify-929495`) · canvas · 2026-09-26 · remake
+- "make your own 15-second motion reel. go all out" (`ghinaiya-nirmal-308943`) · canvas · 2026-09-26 · remake
+- "Make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`gizakdag-239768`) · canvas · 2026-09-26 · remake
+- "Necesito que armes un reel con esta info en 10 segundos, bien publicitario" (`gonzalomacagno-344202`) · svg, css · 2026-09-26 · remake
+- "I want you to create a highly professional SaaS product launch video. Go and look up…" (`gouthamjay8-910269`) · svg, gsap · 2026-09-26 · remake
+- "All right, this is an empty repo. Make me a 3-minute animated visualization using…" (`groundcontrol-230877`) · canvas, audio · 2026-09-26 · remake
+- "You are applying as a motion designer in my agency. Make 15s video to showcase your…" (`hanifproduktif-829311`) · canvas · 2026-09-26 · remake
+- "you are a pro motion designer. analyze my portfolio and make a ~30 second video from it…" (`heyiammallik-293397`) · threejs, canvas · 2026-09-26 · remake
+- "<inputs> Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader…" (`hicallmechai-878304`) · svg, gsap · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`himanshutwtxs-882858`) · canvas · 2026-09-26 · remake
+- "Make a dynamic 30-second motion graphics video that shows what an incredible motion…" (`ho-ba-761062`) · canvas · 2026-09-26 · remake
+- "Create and render a 15-second motion graphics video introducing TanStack AI. Make it feel…" (`howdevelop-733090`) · canvas · 2026-09-26 · remake
+- "한국의 추석에 어울리는 요소를 서치해서 픽셀 애니메이션을 구성해서 제작해줘" (`hoyoyoda-543147`) · canvas, pixel · 2026-09-26 · remake
+- "Make a dynamic 20-second motion graphics launch video for my open-source project…" (`hqmank-241156`) · canvas, svg, gsap · 2026-09-26 · remake
+- "I want you to create a highly professional SaaS product launch video. Go and find some…" (`hsanat-012699`) · svg, gsap · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible app Mentis…" (`hugon001-609629`) · canvas · 2026-09-26 · remake
+- "nice. wir brauchen ein launch video für den release. kannst du das machen? so a la…" (`iammxfschr-955831`) · gsap · 2026-09-26 · remake
+- "# OBLT E-bike Header A full-viewport, dark, cinematic e-bike product header for the brand…" (`iamtanzil-120030`) · canvas, css · 2026-09-26 · remake
+- "Make a dynamic 15-second motion graphics video that shows why [your product] is the best…" (`ishaaqahamed-107563`) · canvas · 2026-09-26 · remake
+- "I want to create a highly-detailed video trailer featuring Claude and ChatGPT having a…" (`ishuagra02-922825`) · canvas · 2026-09-26 · remake
+- "Research Distilbook.Make a dynamic 40-second motion graphics video on Distilbook that…" (`itisrazak-332386`) · threejs, canvas · 2026-09-26 · remake
+- "4 seasons passing outside a train window, a cozy carriage, a cup of coffee on the table…" (`itsolelehmann-762215`) · canvas · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`itsuki-dev-618392`) · canvas, particles · 2026-09-26 · remake
+- "can you help me use the pig assets on new branch of lovelee to make a 9:16 short story…" (`jackfriks-338762`) · canvas, svg, gsap · 2026-09-26 · remake
+- "Using HyperFrames, make a hype teaser for the product in this post - [link]. Landscape…" (`jake11moran-414633`) · canvas, svg, gsap, ai-image · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`jasonzhou1993-515541`) · canvas, svg · 2026-09-26 · remake
+- "You're a world-class motion designer building a Supademo launch video. Research and land…" (`jhylee95-452427`) · svg, gsap · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`johnsavage-ai-041677`) · shader, canvas · 2026-09-26 · remake
+- "use this image only as a style/vibe refference image and create a Opus 5.5 launch video…" (`johnsavage-ai-427263`) · threejs, shader, canvas · 2026-09-26 · remake
+- "build an art project which is a fractal visulizer (mandelbrot, etc), but the styles look…" (`jrayon-054015`) · shader, webgl, canvas · 2026-09-26 · remake
+- "Make an animated clip about Tented's image gen capabilities where users ask for branded…" (`justincooperman-188876`) · canvas, css · 2026-09-26 · remake
+- "Make a 45-second silent short film with no dialogue, where sound tells half the story…" (`kamstudiolabs-100086`) · canvas, audio · 2026-09-26 · remake
+- "Build a 45-second machine that plays an original piece of music, where every note comes…" (`kamstudiolabs-440893`) · canvas, physics, audio · 2026-09-26 · remake
+- "Make a 90-second animated short film about a bug that doesn't want to be fixed." (`kamstudiolabs-877996`) · canvas, particles · 2026-09-26 · remake
+- "make a dynamic 20-second motion graphics video for my newsletter that shows what an…" (`kangaroohere-818789`) · canvas · 2026-09-26 · remake
+- "make a video that could go viral." (`kantamk-176511`) · canvas, physics, audio · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`karanb192-032177`) · canvas, css · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`kenn-937232`) · shader, canvas · 2026-09-26 · remake
+- "make a dynamic 30-second motion graphics video that shows what an incredible motion…" (`kentcdodds-858193`) · canvas · 2026-09-26 · remake
+- "Make a 20 second video about my portfolio from scratch, using only the portfolio's own…" (`kikelopezdesign-173471`) · canvas · 2026-09-26 · remake
+- "Use Python to generate a 9:16 chaotic brain rot video with excellent motion + sound…" (`kloss-xyz-941143`) · canvas, audio · 2026-09-26 · remake
+- "make a dynamic 20-second motion graphics video that shows what an incredible our email…" (`kmasiff-549880`) · svg · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`kyonax-on-tech-049316`) · canvas, svg · 2026-09-26 · remake
+- "create a motion design prompt for an ad for our site Prompt 2: now apply it" (`l3d1c-752011`) · canvas, svg · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`leadnotifi-960983`) · canvas, svg · 2026-09-26 · remake
+- "I want you to create a highly professional SaaS product launch video. Go and find some…" (`leanzubrezki-766171`) · svg, gsap · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`leonabboud-358051`) · threejs, canvas · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`leonkohli-191220`) · threejs, canvas, svg · 2026-09-26 · remake
+- "make a modern slick and punchy video for a modern startup that works on inference no…" (`lepadev-475414`) · svg, gsap · 2026-09-26 · remake
+- "Study how this https://experiments.cloudjoi.com works and use Remotion to make a product…" (`lester-tyy-480587`) · svg · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`levabashidze-184909`) · canvas · 2026-09-26 · remake
+- "make a dynamic 20-second motion graphics and animation video that shows what an…" (`loicrambo-980558`) · canvas · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`m1n9-k7-295601`) · canvas · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`m1n9-k7-466682`) · canvas, ai-image · 2026-09-26 · remake
+- "[gave access to Ren repo] Make a dynamic 30-second motion graphics video for Ren that…" (`macrohou-733862`) · canvas, audio · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video promo about gene spectra, use assets from…" (`madebyjmayala-649220`) · canvas, svg · 2026-09-26 · remake
+- "make a 10 sec video on whatever you know about me" (`madhav-xo-524440`) · threejs, shader, canvas · 2026-09-26 · remake
+- "fun motion graphic, comic book style, 10s" (`madpencil-753990`) · svg · 2026-09-26 · remake
+- "Create a single self-contained HTML file that renders an animated pixel art wizard…" (`majidmanzarpour-927543`) · canvas · 2026-09-26 · remake
+- "make a presentation video for Brieform, 30 seconds long" (`majorbaguette-834228`) · canvas · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`manuelogomigo-052364`) · canvas, svg · 2026-09-26 · remake
+- "build me an incredible video for my app. make it emotional." (`marklaunches-041046`) · canvas, svg · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`marouanegazouzi-131257`) · canvas, svg · 2026-09-26 · remake
+- "build me a 30s drawing style animated clip about submitting a product to AppSumo via your…" (`mattbean-917572`) · canvas · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`mattiapomelli-229129`) · threejs, shader, canvas · 2026-09-26 · remake
+- "Make a ODATANO edit that goes hard" (`maxalexweber-459784`) · canvas, svg · 2026-09-26 · remake
+- "Create a product launch video for ocrX Android app." (`mehul4795-417532`) · svg · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`melvynx-638493`) · canvas, svg, gsap · 2026-09-26 · remake
+- "Build me something when people see it, they will say "Wow". Must be immersive, when…" (`miaai-lab-774895`) · shader, webgl, canvas · 2026-09-26 · remake
+- "Make a GravityDEX x Gojo Satoru edit that goes hard" (`micheleharmonic-244175`) · canvas · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`misbahsy-882277`) · canvas, svg, css · 2026-09-26 · remake
+- "make 1 dynamic 15-second motion graphics video that shows what an incredible motion…" (`miskinho-956105`) · svg, gsap · 2026-09-26 · remake
+- "build mobile app animated splash screen creation for ..." (`modaalbuilder-868989`) · canvas, css · 2026-09-26 · remake · parcial
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`monokern-613142`) · svg, ai-image · 2026-09-26 · remake
+- "make a dynamic 20-second motion graphics video that shows what an incredible motion…" (`monokern-832979`) · shader, webgl, canvas · 2026-09-26 · remake
+- "I want you to create a highly professional SaaS product launch video. Go and find some…" (`moritzkremb-466494`) · svg, gsap · 2026-09-26 · remake
+- "Make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`motiondsgnr-313960`) · canvas · 2026-09-26 · remake
+- "Create a motion design video of a slow-reveal transition. Draw the logo as a wireframe…" (`mounnna-497266`) · canvas · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`mrtanviir-132205`) · canvas · 2026-09-26 · remake
+- "make a 15 second motion graphics video. personify yourself in the video as introducing…" (`mtvneo-148436`) · threejs, canvas, svg · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`mustaphafenzar-973906`) · canvas, css · 2026-09-26 · remake
+- "A cartoony battle royale: storm timer, players alive, inventory hotbar, minimap, emote…" (`mycodecoach-459574`) · threejs, svg · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video in portrait mode that shows what an…" (`ndhabarde11-686104`) · shader, canvas, svg, gsap · 2026-09-26 · remake
+- "make a funny video. it can be about anything. length: 10 to 30s" (`nemtudo-614053`) · svg, audio · 2026-09-26 · remake
+- "<inputs> Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader…" (`nezbuilds-294391`) · svg · 2026-09-26 · remake
+- "Please do not reference any previous memories or skills. I've been seeing all of these…" (`nolkeeg-635633`) · canvas, particles · 2026-09-26 · remake
+- "Can you make me a video of LLM progression, like models that is from January of this year…" (`nummanali-340931`) · canvas · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`onewaysidewalks-440008`) · threejs, canvas, svg, css · 2026-09-26 · remake
+- "Add a good fast royalty free music to this video, and make 2 versions - 1 landscape, and…" (`palashbagchi11-389221`) · canvas · 2026-09-26 · remake · parcial
+- "create a motion design video of a poster breaking out of its own frame." (`pankajkumar-dev-718609`) · canvas · 2026-09-26 · remake
+- "create a music video for this entire song, check lyrics.txt to sync the visuals to. style…" (`paranoidamerica-686717`) · canvas, ai-image · 2026-09-26 · remake
+- "make a dynamic motion graphics video about this project and its unique features that…" (`paukraft-585863`) · canvas, svg, gsap · 2026-09-26 · remake
+- "I want you to create a highly professional SaaS product launch video. Go and find some…" (`pbteja1998-651644`) · svg, gsap, css · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`phonggt-377247`) · canvas · 2026-09-26 · remake
+- "Make a dynamic [24]-second motion graphics video that shows what an incredible motion…" (`polydao-566862`) · canvas, svg · 2026-09-26 · remake
+- "添付した楽曲とキャラクター画像を使って、「サイケデリック・グリッチ系」のアニメーション MV を作ってください。 【制作方法】 HTML Canvas…" (`pound75423-464968`) · canvas, css · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`praburajkennady-972967`) · threejs, shader, canvas · 2026-09-26 · remake
+- "make a dynamic 15 second motion graphics video that shows what an incredible motion…" (`prasad-pilla-496049`) · svg, gsap · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`prasenx-693512`) · shader, canvas, audio · 2026-09-26 · remake
+- "140 BPM rusko/skream style UK dubstep" (`rames-jusso-776559`) · canvas · 2026-09-26 · remake
+- "Make a dynamic motion graphics video that shows what an incredible platform AllInvestView…" (`rammanq-034553`) · svg, gsap · 2026-09-26 · remake
+- "build me a beautiful launch video 20 seconds or under that shows all our key features…" (`ratheejaisal-154698`) · canvas, svg · 2026-09-26 · remake
+- "You're a world-class motion designer, and this is your 15-second résumé reel. Make it…" (`reflex-cloud-304046`) · shader, webgl, canvas, css · 2026-09-26 · remake
+- "Make a dynamic 15 second motion graphics video that shows off what an incredible motion…" (`rendesr-676116`) · canvas, particles · 2026-09-26 · remake
+- "Make Motiongraphic about my studio with Oscilloscope style" (`rneayan-406275`) · canvas · 2026-09-26 · remake
+- "make about my studio with Risograph style" (`rneayan-441493`) · canvas, svg, gsap, css · 2026-09-26 · remake
+- "Can you make a 15-second motion graphic video of https://nohandslabs.com? Go ALL OUT and…" (`robvjourney-237474`) · canvas, svg · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`roxsav2-073412`) · canvas · 2026-09-26 · remake
+- "Cut a raw talking-head clip into a punchy, fun edit with subtitles, graphics and music" (`sab8a-475686`) · canvas, ai-image · 2026-09-26 · remake
+- "Create a professional product launch video with motion graphics. You have access to the…" (`sachaarbonel-673648`) · canvas, svg, gsap · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`safarkhanshuvo-059752`) · canvas, particles · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`sagarmohansingh-322168`) · canvas · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`sahildesigner23-307120`) · threejs, shader, canvas · 2026-09-26 · remake
+- "create a motion design video of a poster breaking out of its own frame." (`sahilvermaai-189237`) · canvas · 2026-09-26 · remake
+- "make a dynamic lyrics motion graphics video based on the attached music, perfectly…" (`samaote-124569`) · shader, canvas, svg · 2026-09-26 · remake
+- "Create a motion graphics video that feels like the centerpiece of a world-class…" (`samuel-spitz-503053`) · threejs, shader, canvas · 2026-09-26 · remake
+- "<inputs> Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader…" (`sanjeevn72-457691`) · svg · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`seflless-929329`) · threejs, shader, canvas · 2026-09-26 · remake
+- "Make a dynamic 15 second motion graphics video that shows what an incredible motion…" (`shinskinakamoto-589043`) · canvas · 2026-09-26 · remake
+- "create 15+ sec self-promotion promo" (`slvdev-975986`) · gsap · 2026-09-26 · remake
+- "Create a short origami / doodle-style animation showing humanity’s development, progress…" (`songkeys-384673`) · canvas · 2026-09-26 · remake
+- "make a dynamic 10-second motion graphics video that shows who are you as Opus 5.5 - be as…" (`souravbhar871-477361`) · canvas · 2026-09-26 · remake
+- "Create a 30sec pitch video for @chaindotwtf" (`spearwtf-029058`) · threejs, canvas · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`stephanlivera-470926`) · canvas · 2026-09-26 · remake
+- "create an insightful, yet state of the art video visualization for how backlinks work for…" (`stewchan2-369810`) · canvas · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video of what you know about @tryflexprice that…" (`sudeepsd-158453`) · threejs, canvas · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`sudiyasa-076027`) · canvas, particles · 2026-09-26 · remake
+- "Go all out." (`sudo-kiran-696074`) · canvas · 2026-09-26 · remake
+- "make a brainrot video about the terminal. i can't escape it. ai is so addictive." (`supremebeme-306746`) · svg · 2026-09-26 · remake
+- "Make a 30s video about what it feels like to be you, using whatever tools you like." (`suryarajendhran-730437`) · canvas · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`tcballard-268605`) · canvas · 2026-09-26 · remake
+- "You are a world-class motion designer doing a 20.00s kinetic identity bumper for…" (`techhalla-498547`) · canvas · 2026-09-26 · remake
+- "I want you to create a highly professional SaaS product launch video for Slideforge. You…" (`techtactician-144474`) · svg, gsap, css · 2026-09-26 · remake
+- "I want you to create a highly professional SaaS product launch video. Go and find some…" (`techyoutbe-588678`) · svg · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`teslachartz-887985`) · canvas · 2026-09-26 · remake
+- "make a dynamic 15 second motion graphics video that shows what an incredible motion…" (`theattnlayer-471834`) · canvas · 2026-09-26 · remake
+- "<inputs> Ask me for: my featured Pokémon or starter trio, 8–12 Pokémon-themed UI states…" (`thegrootdev-966114`) · svg · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`thismacapital-375808`) · svg, gsap · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`tolgayhickiran-935120`) · canvas · 2026-09-26 · remake
+- "réalise une vidéo résumant la vie politique au Maroc depuis l’indépendance" (`triglyceee-161719`) · svg, css · 2026-09-26 · remake
+- "<inputs> Ask me for: 8 to 12 UI states I want the shape to become (e.g. button, loader…" (`twoclipping-402193`) · svg · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`umangratani-840800`) · canvas, particles · 2026-09-26 · remake
+- "make the most impressive demo video for (company name)" (`vahidf24-121886`) · svg, gsap, css · 2026-09-26 · remake
+- "make a dynamic 10 second motion graphics video that shows what an incredible motion…" (`vanshwtfff-992798`) · canvas, particles · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`vfnuness-704448`) · canvas · 2026-09-26 · remake
+- "Create a launch video for MotionSites AI, just hit 1 million monthly visitors after 8…" (`viktoroddy-402509`) · canvas, svg, gsap, css · 2026-09-26 · remake
+- "build me a product demo for my site using /brag skill. make sure to emphasize on all…" (`visheshbaghell-119508`) · svg, gsap · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`wallt-white-942703`) · canvas, particles · 2026-09-26 · remake
+- "Make a showreel-style motion graphics video for my portfolio website, http://…" (`wani-shola-459278`) · svg, gsap · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`web3wesley-365164`) · threejs, canvas, css, particles · 2026-09-26 · remake
+- "Create a pure javascript animation. 30-60s, vertical 9:16, paper cut-out shadow theatre…" (`x4b47x-034026`) · canvas, particles, audio · 2026-09-26 · remake
+- "Create a 1-minute video featuring a fight between Dario and Sam. It needs plot, explosive…" (`xanderwow-a-597063`) · canvas · 2026-09-26 · remake
+- "Code-driven animation: an HTML/JS page where every frame is calculated from the time…" (`xelandre-687413`) · canvas, svg · 2026-09-26 · remake
+- "make a dynamic 15-second motion graphics video that shows what an incredible motion…" (`zaqailo-835623`) · threejs, shader, canvas, svg · 2026-09-26 · remake
+- "Make an 80 second square animated film as a single HTML file, using WebGL2 and plain…" (`zeezomb-726206`) · threejs, shader · 2026-09-26 · remake
+- "Hello Opus 5.5 show me what an incredible motion designer you are." (`zheke-622583`) · shader, webgl, canvas, particles · 2026-09-26 · remake
