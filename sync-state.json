@@ -1,8 +1,8 @@
 {
-  "version": "1.20261013.0",
-  "upstream_commit": "e6c7eee870cbd6d40825d6348a0c5782b3721fe9",
-  "prompts": 853,
+  "version": "1.20261014.0",
+  "upstream_commit": "92aee2f586ac0715cb3cbcb6384834f98a33383d",
+  "prompts": 703,
   "skipped": [],
-  "content_hash": "1ec4cfdf4a4ba4bb9e3135120c48354f2c50d1be8ed85e23794c46f0a6dc0930",
-  "synced_at": "2026-10-13T02:56:42+00:00"
+  "content_hash": "cc6cec40e7964247ddd70867f04476bcb63400700e397ed410e4c0263ac22368",
+  "synced_at": "2026-10-14T08:13:11+00:00"
 }

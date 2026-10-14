@@ -1,8 +1,7 @@
-# Explainers: 122 prompts
+# Explainers: 116 prompts
 
 Formato e marcas: veja `INDEX.md`. Prompt inteiro: `prompts/<slug>.md`.
 
-- **Dynamic Motion Graphics Showreel Video** (`0xnachione-906982`) · 2026-10-12
 - "an interactive 3D turbofan you can take apart in the browser, built with Three.js. suck…" (`0xspikez-483865`) · threejs, shader, svg · 2026-10-12 · remake
 - "Build me a human heart in interactive 3D, in one HTML file with Three.js. Make it look…" (`aichrislee-378670`) · threejs, canvas, audio · 2026-10-12 · remake
 - "Build me a camera lens in interactive 3D, in one HTML file with Three.js. Make it look…" (`aichrislee-408244`) · threejs, shader, svg · 2026-10-12 · remake
@@ -36,10 +35,8 @@ Formato e marcas: veja `INDEX.md`. Prompt inteiro: `prompts/<slug>.md`.
 - **Color Wheel Motion Graphics** (`koldo2k-741714`) · 2026-10-12
 - **Resume Motion Video Storyboard** (`koushikde-937635`) · 2026-10-12
 - **P(DOOM) Cinematic Explainer** (`ldataengineer-823010`) · 2026-10-12
-- **Lemo-Opuscar Tutorial Video** (`lemomo-ai-242622`) · 2026-10-12
 - **Cinematic AI History** (`linke1427832-343079`) · 2026-10-12
 - **Motion Graphics Explainer** (`mablesjoseph-735781`) · 2026-10-12
-- **Printing Press History Explainer** (`maxescu-962277`) · 2026-10-12
 - **Animated Explainer Video Prompts for Opus 5.5** (`michaelraspuzzi-740595`) · 2026-10-12
 - **Code-Only Psychology Explainer Video** (`nakazakifam-831964`) · 2026-10-12
 - **Across Product Demo Video** (`nilou-salehi-458567`) · 2026-10-12
@@ -68,9 +65,7 @@ Formato e marcas: veja `INDEX.md`. Prompt inteiro: `prompts/<slug>.md`.
 - "ださいけど、Remotion で動画っぽいのつくった。コードは見てない。環境だけ用意した…っていっても、いつものように jj init されるカスタム try…" (`itakahashikun-990109`) · canvas, svg · 2026-09-29 · remake · parcial
 - "Jumping on the Claude Code + Hyperframe bandwagon. I made this intro completely zero-shot…" (`itsahmedharoon-544194`) · svg · 2026-09-29 · remake · parcial
 - "Made this small video for a linkedin post with Opus 5.5 + Remotion and 2 screenshots of…" (`itsyashf-692347`) · canvas, svg · 2026-09-29 · remake · parcial
-- "messing around with Opus 5.5 - HyperFrames staging, edit - JavaScript, ThreeJS, - fal GPT…" (`mattworkman-309357`) · threejs, shader, canvas · 2026-09-29 · remake · parcial
 - "Made with Opus 5.5, remotion y eleven labs. 145k tokens." (`ninjaswebcom-684126`) · canvas · 2026-09-29 · remake · parcial
-- "Opus5.5 で hyperframes チャレンジ。 結構、形になってきたかな" (`papaneco-life-038225`) · svg · 2026-09-29 · remake · parcial
 - "Claude Opus 5.5 に Remotion のコードを書かせて、検索の歴史を15秒の年表ムービーにしたら、めちゃくちゃアツい🔥…" (`rpa-dake-593915`) · svg · 2026-09-29 · remake · parcial
 - "Made with Opus 5.5 and Remotion. #claude #opus #reactnative #currency" (`salmanr2d2-661615`) · canvas, svg · 2026-09-29 · remake · parcial
 - "created this with opus 5.5 + remotion, the possibilities are endless" (`samissudo-927179`) · canvas, svg, gsap · 2026-09-29 · remake · parcial
@@ -112,7 +107,6 @@ Formato e marcas: veja `INDEX.md`. Prompt inteiro: `prompts/<slug>.md`.
 - "A video explaining recursion, where every explanation about recursion has a radically…" (`emollick-019567`) · canvas · 2026-09-26 · remake
 - "make educational video out of article." (`henkvaness-975279`) · svg · 2026-09-26 · remake
 - "make a video highlighting key moments in the history of AI." (`kloss-xyz-067876`) · canvas, svg, css · 2026-09-26 · remake
-- "Build a looping "infinite zoom" animation, After Effects style: the camera travels from…" (`koldo2k-778767`) · canvas, ai-image · 2026-09-26 · remake
 - "请用Manim给我制作一个导数概念学习的视频，要求通俗易懂，并且有例子，引人思考。配音使用edge-tts" (`linearuncle-971663`) · svg, audio · 2026-09-26 · remake
 - "make a hand-drawn stop-motion animation; story: you're defi saver and explaining yourself…" (`nikolajankovic-616097`) · canvas · 2026-09-26 · remake
 - "explain a token bucket rate limiter, canvas only, no libraries, every frame a pure…" (`parkerrex-701462`) · canvas, physics · 2026-09-26 · remake

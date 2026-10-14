@@ -1,4 +1,4 @@
-# Games & interactive: 107 prompts
+# Games & interactive: 101 prompts
 
 Formato e marcas: veja `INDEX.md`. Prompt inteiro: `prompts/<slug>.md`.
 
@@ -40,23 +40,19 @@ Formato e marcas: veja `INDEX.md`. Prompt inteiro: `prompts/<slug>.md`.
 - **Remotion Three.js Typing Game CM** (`typingmusou-160705`) · 2026-10-12
 - **Interactive Ink Painting Simulation** (`youwareai-259061`) · 2026-10-12
 - "Opus 5.5に「ド派手なPVを作って」と丸投げしたら、ほぼ任せきりで完成した😳 世界ランク上位の実際のリプレイを撮影して、拍に合わせて「ギリギリ！」を重ねてくる。…" (`mappletour-334921`) · canvas, playable · 2026-09-29 · remake · parcial
-- "Testando o Opus 5.5 com a skill hyperframes que vi no post do @gabrielbuzziv Simplesmente…" (`pauloalonso-477996`) · canvas, svg, pixel · 2026-09-29 · remake · parcial
 - "试着用 Opus 5.5 给「财富进化论」做了一款复古的像素游戏《复利 QUEST》。 把我们家庭投资理财路上的一些困难设计成关卡。…" (`0xpai-eth-635565`) · canvas, pixel, playable · 2026-09-28 · remake · parcial
 - "Play INKBOUND: https://agentgames.itch.io/inkbound Claude Opus 5.5 built this pixel game…" (`agentgamesbot-355554`) · canvas, pixel, playable · 2026-09-28 · remake · parcial
 - "太离谱了，一共3步，Opus 5.5给我整了个“模拟火车”出来。 1. 让ChatGPT生成韶山8各个视角的图； 2. 让Opus做一个3D资产，100%还原这张图； 3…" (`akokoi1-469188`) · threejs, canvas, audio · 2026-09-28 · remake · parcial
 - "Can one developer + 3 AI agents build a GTA-style game? I’m trying. FIXER is a 1990s city…" (`alex-vainshtein-195332`) · threejs, canvas, particles · 2026-09-28 · remake · parcial
 - "Claude Opus 5.5 is stupidly good at games, so I’m putting it on a streak. Dropping 10…" (`anduraio-570761`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
 - "In a deeply serious, highly mature effort to test Opus 5.5's ability to render jello-like…" (`angie-carel-954689`) · threejs, shader, canvas, audio · 2026-09-28 · remake · parcial
-- "Update to my open world fantasy sci-fi game. You can now fly thru a larger map and vibe!…" (`aniketjart-094296`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
 - "A black cat's night stroll along a moonlit canal 🐈‍⬛🌙 CatWalk — a one-button 3D browser…" (`blitast-studio-257328`) · threejs, shader, audio · 2026-09-28 · remake · parcial
 - "Nobody edited this video. Claude Opus 5.5 built the game, then played it, filmed it…" (`boona11-415751`) · canvas, playable · 2026-09-28 · remake · parcial
 - "Opus 5.5 editing my demo video 👀 Built a hand-drawn catapult sketch that turns into a…" (`brainwavepub-812667`) · threejs, svg, gsap · 2026-09-28 · remake · parcial
 - "@kimmonismus hours of rework on my threejs game with Opus 5.5 and limits didnt even move" (`brenbuilds-386902`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
-- "I updated my game Higher on @spawn with Opus 5.5 and Savi with just only one prompt This…" (`chukinice-426722`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
 - "Everyone is sharing what Opus 5.5 can build this week, and it made us ask ourselves a…" (`codrops-340299`) · threejs, canvas, pixel · 2026-09-28 · remake · parcial
 - "I made a 3D survival game in one prompt with Opus 5.5 Survive 60 seconds. Every tile you…" (`curieuxexplorer-519730`) · threejs, shader, playable · 2026-09-28 · remake · parcial
 - "This is Dope! Claude Opus 5.5 is on fire 🔥 One prompt → a 30s video-game walk through…" (`curieuxexplorer-772215`) · threejs, shader, audio · 2026-09-28 · remake · parcial
-- "Day 7 of making a game every day until I hit 1 million followers. Driftward: Oregon Trail…" (`danielkan-059523`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
 - "What if learning Python felt more like playing a game than studying? 🎮🐍 So I asked Claude…" (`deeprajo1-834106`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
 - "made a galactic pixel racer game with opus 5.5, can you beat my score? 👿…" (`dmowlin-221566`) · canvas, pixel · 2026-09-28 · remake · parcial
 - "Claude Opus 5.5 just built Minecraft. In the browser. From a single prompt. Noah Wachnick…" (`dreyk0o0-165270`) · threejs, shader, playable · 2026-09-28 · remake · parcial
@@ -73,10 +69,8 @@ Formato e marcas: veja `INDEX.md`. Prompt inteiro: `prompts/<slug>.md`.
 - "I built Minecraft thanks to Opus 5.5 ( part 2 ) today I added more mobs and here I will…" (`kepochnik-237752`) · threejs, canvas, playable · 2026-09-28 · remake · parcial
 - "I asked Opus 5.5 to build a tiny underground delivery network in three.js — then turned…" (`lisp-mi-139812`) · threejs, canvas · 2026-09-28 · remake · parcial
 - "Rock skipping game made with Three.js and Opus 5.5." (`llama3dstudio-012980`) · threejs, shader, playable · 2026-09-28 · remake · parcial
-- "ok i ran out of usage on claude so had to move to astra for the video... so this is just…" (`loverwnl-712109`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
 - "I'm having so much fun doing game development with opus 5.5. This little bit with trains…" (`maxthelion-649723`) · threejs, canvas · 2026-09-28 · remake · parcial
 - "Claude Opus 5.5 built this game from a single prompt - a mythic action game inspired by…" (`mayuresh-empire-687553`) · threejs, shader, canvas, particles · 2026-09-28 · remake · parcial
-- "Opus 5.5 is seriously impressive🤯 I gave Lovable a detailed prompt for a game I wanted to…" (`mgfeller-779161`) · threejs, shader, canvas, svg · 2026-09-28 · remake · parcial
 - "Opus 5.5 just one-shot this entire pixel-art game. Oh, and the prompt? It was barely…" (`mozetech-471882`) · canvas, audio, pixel, playable · 2026-09-28 · remake · parcial
 - "opus 5.5 遊戲製作，週末快點來嘗試。" (`mrblock-096062`) · threejs, shader, canvas · 2026-09-28 · remake · parcial
 - "Opus 5.5 releases 😍 Me: Woahh! Let's drill through our BugSmash backlog quickly. My…" (`nqaze-939886`) · threejs, shader, canvas, particles · 2026-09-28 · remake · parcial

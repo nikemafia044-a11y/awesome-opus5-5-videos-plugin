@@ -1,12 +1,12 @@
 ---
 name: opus-videos
-description: Biblioteca de 853 prompts de vídeos virais feitos com o Claude Opus 5.5 escrevendo a animação como código (HTML, Canvas, SVG, Three.js, GSAP, shaders, Web Audio), do yihui-dev/awesome-opus5-5-videos, em quatro categorias (motion graphics, explainers, cenas 3D, jogos interativos). Use quando o usuário pedir um vídeo, animação, motion graphics, vinheta, explainer animado, cena 3D, showreel ou minijogo feito em código, quiser ideias ou prompts prontos desse tipo, ou quiser refazer um vídeo da coleção.
+description: Biblioteca de 703 prompts de vídeos virais feitos com o Claude Opus 5.5 escrevendo a animação como código (HTML, Canvas, SVG, Three.js, GSAP, shaders, Web Audio), do yihui-dev/awesome-opus5-5-videos, em quatro categorias (motion graphics, explainers, cenas 3D, jogos interativos). Use quando o usuário pedir um vídeo, animação, motion graphics, vinheta, explainer animado, cena 3D, showreel ou minijogo feito em código, quiser ideias ou prompts prontos desse tipo, ou quiser refazer um vídeo da coleção.
 license: MIT
 ---
 
 # Vídeos do Opus 5.5 (prompts)
 
-853 prompts que criadores publicaram junto com vídeos feitos pelo Claude Opus 5.5. Em todos, o modelo escreveu a animação como código e o vídeo é a gravação da página rodando. A biblioteca é atualizada automaticamente a partir do yihui-dev/awesome-opus5-5-videos (licença MIT).
+703 prompts que criadores publicaram junto com vídeos feitos pelo Claude Opus 5.5. Em todos, o modelo escreveu a animação como código e o vídeo é a gravação da página rodando. A biblioteca é atualizada automaticamente a partir do yihui-dev/awesome-opus5-5-videos (licença MIT).
 
 ## Arquivos
 
